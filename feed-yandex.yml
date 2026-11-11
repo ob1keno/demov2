@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-11">
+  <shop>
+    <name>Timkush</name>
+    <url>https://timkush.ru</url>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <offers>
+    <offer id="008SS" available="true">
+      <name>Кресло косметологическое 008SS</name>
+      <url>https://timkush.ru/product/cosmetic-008ss/</url>
+      <price>116856</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/treatment-bed-008ss-007-a3a5a9d0.webp</picture>
+      <description>008SS — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 82 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="01B" available="true">
+      <name>Кресло косметологическое 01B</name>
+      <url>https://timkush.ru/product/cosmetic-01b/</url>
+      <price>74223</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/lash-01b-lash-bed-072-83249702.webp</picture>
+      <description>01B — под заказ из Китая. Нагрузка до 150 кг. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="02B" available="true">
+      <name>Кресло косметологическое 02B</name>
+      <url>https://timkush.ru/product/cosmetic-02b/</url>
+      <price>80973</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/lash-02b-lash-bed-073-78245582.webp</picture>
+      <description>02B — под заказ из Китая. Нагрузка до 150 кг. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="10677" available="true">
+      <name>Набор массажных камней из мрамора HML12 (12шт.)</name>
+      <url>https://timkush.ru/product/10677/</url>
+      <price>2975</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-10677-p32-169c0710.webp</picture>
+      <description>Набор массажных камней из мрамора HML12 (12шт.). Артикул 10677. Позиция в наличии в Москве, цена за единицу. Набор из 12 мраморных камней 7,5х5,5x1,5 cм Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="11087" available="true">
+      <name>Набор массажных камней из базальта в коробке из бамбука (60шт.) H60TC</name>
+      <url>https://timkush.ru/product/11087/</url>
+      <price>17000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-11087-p32-cb68839c.webp</picture>
+      <description>Набор массажных камней из базальта в коробке из бамбука (60шт.) H60TC. Артикул 11087. Позиция в наличии в Москве, цена за единицу. Набор из 60 камней Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="11107" available="true">
+      <name>Нагреватель для камней HSH18</name>
+      <url>https://timkush.ru/product/11107/</url>
+      <price>16900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-11107-p31-1151ac91.webp</picture>
+      <description>Нагреватель для камней HSH18. Артикул 11107. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="11108" available="true">
+      <name>Нагреватель для камней HSH6</name>
+      <url>https://timkush.ru/product/11108/</url>
+      <price>12500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-11108-p31-1edcd60d.webp</picture>
+      <description>Нагреватель для камней HSH6. Артикул 11108. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="18527" available="true">
+      <name>Набор массажных камней из базальта в коробке из бамбука (22шт.) H22TC</name>
+      <url>https://timkush.ru/product/18527/</url>
+      <price>7500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-18527-p32-e14587d5.webp</picture>
+      <description>Набор массажных камней из базальта в коробке из бамбука (22шт.) H22TC. Артикул 18527. Позиция в наличии в Москве, цена за единицу. Набор из 22 камней Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="20220" available="true">
+      <name>Массажный складной стол MR KUSH Premium Pro 3 beige</name>
+      <url>https://timkush.ru/product/20220/</url>
+      <price>29900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-20220-p25-a8cc0477.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium Pro 3 beige. Обивка: Кожа ПВХ. Артикул 20220. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium Pro 3 бежевый Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="20228" available="true">
+      <name>Массажный складной стол MR KUSH Premium Pro 2 beige</name>
+      <url>https://timkush.ru/product/20228/</url>
+      <price>28500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-20228-p24-9ee4d235.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium Pro 2 beige. Обивка: Кожа ПУ. Артикул 20228. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium Pro 2 бежевый Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="26681" available="true">
+      <name>Хлопковое покрытие для массажного стола MR KUSH (192*70cm)</name>
+      <url>https://timkush.ru/product/26681/</url>
+      <price>1400</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-26681-p25-18561d9b.webp</picture>
+      <description>Хлопковое покрытие для массажного стола MR KUSH (192*70cm). Артикул 26681. Позиция в наличии в Москве, цена за единицу. Хлопковый чехол для массажных столов MR KUSH 190х70 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="26780" available="true">
+      <name>Массажный складной стол MR KUSH Premium 4 cream</name>
+      <url>https://timkush.ru/product/26780/</url>
+      <price>27900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-26780-p23-5857a71b.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium 4 cream. Обивка: Кожа ПВХ. Артикул 26780. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 4 крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="26783" available="true">
+      <name>Массажный складной стол MR KUSH Premium Pro 2 XL (80см) cream</name>
+      <url>https://timkush.ru/product/26783/</url>
+      <price>33000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-26783-p24-d80b6fb0.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium Pro 2 XL (80см) cream. Обивка: Кожа ПВХ. Артикул 26783. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium Pro 2 бежевый Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31350" available="true">
+      <name>Стул мастера MR KUSH Smart white</name>
+      <url>https://timkush.ru/product/31350/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31350-p27-ab509bce.webp</picture>
+      <description>Стул мастера MR KUSH Smart white. Нагрузка до 100 кг. Артикул 31350. Позиция в наличии в Москве, цена за единицу. Smart белый Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см В разобранном виде упакован в компактную коробку 17*53*53 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31351" available="true">
+      <name>Стул мастера MR KUSH Smart cream</name>
+      <url>https://timkush.ru/product/31351/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31351-p27-4c0b3642.webp</picture>
+      <description>Стул мастера MR KUSH Smart cream. Нагрузка до 100 кг. Артикул 31351. Позиция в наличии в Москве, цена за единицу. Smart крем Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см В разобранном виде упакован в компактную коробку 17*53*53 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31352" available="true">
+      <name>Стул мастера MR KUSH Smart black</name>
+      <url>https://timkush.ru/product/31352/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31352-p27-4c0b3642.webp</picture>
+      <description>Стул мастера MR KUSH Smart black. Нагрузка до 100 кг. Артикул 31352. Позиция в наличии в Москве, цена за единицу. Smart черный Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см В разобранном виде упакован в компактную коробку 17*53*53 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев</description>
+    </offer>
+    <offer id="31380" available="true">
+      <name>Кресло для массажа MR KUSH Comfort cream</name>
+      <url>https://timkush.ru/product/31380/</url>
+      <price>15000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31380-p27-d50c0cf7.webp</picture>
+      <description>Кресло для массажа MR KUSH Comfort cream. Размеры: 110-135*60 см.. Артикул 31380. Позиция в наличии в Москве, цена за единицу. ШВЗ Comfort крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31381" available="true">
+      <name>Кресло для массажа MR KUSH Comfort black</name>
+      <url>https://timkush.ru/product/31381/</url>
+      <price>15000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31381-p26-627af32c.webp</picture>
+      <description>Кресло для массажа MR KUSH Comfort black. Размеры: 110-135*60 см.. Артикул 31381. Позиция в наличии в Москве, цена за единицу. ШВЗ Comfort черный Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31525" available="true">
+      <name>Набор массажных камней из базальта в мешочке (20шт.) H20TC</name>
+      <url>https://timkush.ru/product/31525/</url>
+      <price>5500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31525-p31-dba623f6.webp</picture>
+      <description>Набор массажных камней из базальта в мешочке (20шт.) H20TC. Артикул 31525. Позиция в наличии в Москве, цена за единицу. Набор из 20 камней Мешочек из плотной ткани Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="31526" available="true">
+      <name>Нагреватель полотенец MJH23</name>
+      <url>https://timkush.ru/product/31526/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Нагреватели и подогреватели</categoryId>
+      <picture>https://timkush.ru/img/mrkush-31526-p30-4e1d3ba1.webp</picture>
+      <description>Нагреватель полотенец MJH23. Артикул 31526. Позиция в наличии в Москве, цена за единицу. Однодверный подогреватель полотенец (23 литра) Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32084" available="true">
+      <name>Кресло для массажа MR KUSH Comfort AL cream</name>
+      <url>https://timkush.ru/product/32084/</url>
+      <price>19900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32084-p26-187dc6f3.webp</picture>
+      <description>Кресло для массажа MR KUSH Comfort AL cream. Нагрузка до 140 кг. Артикул 32084. Позиция в наличии в Москве, цена за единицу. ШВЗ Comfort AL крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32085" available="true">
+      <name>Кресло для массажа MR KUSH Comfort AL black</name>
+      <url>https://timkush.ru/product/32085/</url>
+      <price>19900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32085-p26-f419a800.webp</picture>
+      <description>Кресло для массажа MR KUSH Comfort AL black. Нагрузка до 140 кг. Артикул 32085. Позиция в наличии в Москве, цена за единицу. ШВЗ Comfort AL черный Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32087" available="true">
+      <name>Массажный складной стол MR KUSH Premium AL 2 cream</name>
+      <url>https://timkush.ru/product/32087/</url>
+      <price>22000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32087-p21-dfd24885.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium AL 2 cream. Обивка: Кожа ПВХ. Артикул 32087. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 2 AL крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32088" available="true">
+      <name>Массажный складной стол MR KUSH Premium AL 2 black</name>
+      <url>https://timkush.ru/product/32088/</url>
+      <price>22000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32088-p21-ab0aa485.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium AL 2 black. Обивка: Кожа ПВХ. Артикул 32088. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 2 AL черный Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32101" available="true">
+      <name>Массажный складной стол MR KUSH Standart 3 black</name>
+      <url>https://timkush.ru/product/32101/</url>
+      <price>14500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32101-p20-a0f52d12.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 3 black. Обивка: Кожа ПВХ. Артикул 32101. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 3 черный Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32102" available="true">
+      <name>Массажный складной стол MR KUSH Premium Oval 3 cream</name>
+      <url>https://timkush.ru/product/32102/</url>
+      <price>24500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32102-p23-b6dfd1f7.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium Oval 3 cream. Обивка: Кожа ПВХ. Артикул 32102. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium oval 3 крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32112" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 cream</name>
+      <url>https://timkush.ru/product/32112/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32112-p17-70e9da57.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 cream. Обивка: Кожа ПВХ. Артикул 32112. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32113" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 coffee</name>
+      <url>https://timkush.ru/product/32113/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32113-p18-93e8a294.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 coffee. Обивка: Кожа ПВХ. Артикул 32113. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32114" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 black</name>
+      <url>https://timkush.ru/product/32114/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32114-p18-a100bb61.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 black. Обивка: Кожа ПВХ. Артикул 32114. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32115" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 beige</name>
+      <url>https://timkush.ru/product/32115/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32115-p18-753a0b38.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 beige. Обивка: Кожа ПВХ. Артикул 32115. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32117" available="true">
+      <name>Массажный складной стол MR KUSH Standart AL 2 cream</name>
+      <url>https://timkush.ru/product/32117/</url>
+      <price>14500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32117-p21-d776e2f1.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart AL 2 cream. Обивка: Кожа ПВХ. Артикул 32117. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart AL2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32118" available="true">
+      <name>Массажный складной стол MR KUSH Standart AL 2 black</name>
+      <url>https://timkush.ru/product/32118/</url>
+      <price>14500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32118-p20-7a66080e.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart AL 2 black. Обивка: Кожа ПВХ. Артикул 32118. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart AL2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32119" available="true">
+      <name>Массажный складной стол MR KUSH Standart AL 2 coffee</name>
+      <url>https://timkush.ru/product/32119/</url>
+      <price>14500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32119-p20-2757cb06.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart AL 2 coffee. Обивка: Кожа ПВХ. Артикул 32119. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart AL2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32130" available="true">
+      <name>Массажный складной стол MR KUSH Premium 2 cream</name>
+      <url>https://timkush.ru/product/32130/</url>
+      <price>21500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32130-p22-6a3ef3b3.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium 2 cream. Обивка: Кожа ПВХ. Артикул 32130. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 2 крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32131" available="true">
+      <name>Массажный складной стол MR KUSH Premium 2 black</name>
+      <url>https://timkush.ru/product/32131/</url>
+      <price>21500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32131-p22-48aa483c.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium 2 black. Обивка: Кожа ПВХ. Артикул 32131. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 2 черный Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32138" available="true">
+      <name>Массажный складной стол MR KUSH Premium 3 cream</name>
+      <url>https://timkush.ru/product/32138/</url>
+      <price>22500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32138-p23-b2d192b7.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium 3 cream. Обивка: Кожа ПВХ. Артикул 32138. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium 3 крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32142" available="true">
+      <name>Стул мастера MR KUSH Smart + white</name>
+      <url>https://timkush.ru/product/32142/</url>
+      <price>6900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32142-p28-584c210a.webp</picture>
+      <description>Стул мастера MR KUSH Smart + white. Нагрузка до 100 кг. Артикул 32142. Позиция в наличии в Москве, цена за единицу. Smart + белый Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32143" available="true">
+      <name>Стул мастера MR KUSH Smart + cream</name>
+      <url>https://timkush.ru/product/32143/</url>
+      <price>6900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32143-p28-0ab016f5.webp</picture>
+      <description>Стул мастера MR KUSH Smart + cream. Нагрузка до 100 кг. Артикул 32143. Позиция в наличии в Москве, цена за единицу. Smart + крем Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="32144" available="true">
+      <name>Стул мастера MR KUSH Smart + black</name>
+      <url>https://timkush.ru/product/32144/</url>
+      <price>6900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-32144-p28-550a66a8.webp</picture>
+      <description>Стул мастера MR KUSH Smart + black. Нагрузка до 100 кг. Артикул 32144. Позиция в наличии в Москве, цена за единицу. Smart + черный Регулируемая высота от 53,5 см до 68 см Удобный наполнитель из мягкого пенополиуретана высотой 4 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="34124" available="true">
+      <name>Массажный складной стол MR KUSH Premium Oval 2 cream</name>
+      <url>https://timkush.ru/product/34124/</url>
+      <price>22500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-34124-p22-54486e8c.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium Oval 2 cream. Обивка: Кожа ПВХ. Артикул 34124. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium oval 2 крем Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="35288" available="true">
+      <name>Подушка с эффектом памяти M003 бежевый</name>
+      <url>https://timkush.ru/product/35288/</url>
+      <price>1800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-35288-p37-fd9e32e7.webp</picture>
+      <description>Подушка с эффектом памяти M003 бежевый. Артикул 35288. Позиция в наличии в Москве, цена за единицу. Размер 60*9 см, цвет БЕЖЕВЫЙ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="35289" available="true">
+      <name>Подушка с эффектом памяти M003 крем</name>
+      <url>https://timkush.ru/product/35289/</url>
+      <price>1800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-35289-p37-46b26516.webp</picture>
+      <description>Подушка с эффектом памяти M003 крем. Артикул 35289. Позиция в наличии в Москве, цена за единицу. Размер 60*9 см, цвет КРЕМ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="46490" available="true">
+      <name>Широкий(82см) массажный стационарный стол MR KUSH Classic-Tilt SCT3M32</name>
+      <url>https://timkush.ru/product/46490/</url>
+      <price>69000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-46490-p14-9f3d9708.webp</picture>
+      <description>Широкий(82см) массажный стационарный стол MR KUSH Classic-Tilt SCT3M32. Обивка: Кожа ПВХ. Артикул 46490. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол Classic-Tilt S32 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="46491" available="true">
+      <name>Широкий(82см) массажный стационарный стол MR KUSH Classic-Flat SCF3M32</name>
+      <url>https://timkush.ru/product/46491/</url>
+      <price>65000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-46491-p13-25aa3306.webp</picture>
+      <description>Широкий(82см) массажный стационарный стол MR KUSH Classic-Flat SCF3M32. Обивка: Кожа ПВХ. Артикул 46491. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол Classic-Flat S32 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="46495" available="true">
+      <name>Массажный стационарный стол MR KUSH Essence-Tilt SET3S30+H</name>
+      <url>https://timkush.ru/product/46495/</url>
+      <price>39900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-46495-p12-dffeb853.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Essence-Tilt SET3S30+H. Обивка: Кожа ПВХ. Артикул 46495. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол Essence-Tilt S30+H Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="46850" available="true">
+      <name>Массажный складной стол MR KUSH Premium DUO</name>
+      <url>https://timkush.ru/product/46850/</url>
+      <price>27500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-46850-p24-e46b7291.webp</picture>
+      <description>Массажный складной стол MR KUSH Premium DUO. Обивка: Кожа ПВХ. Артикул 46850. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Premium DUO для беременных Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48384" available="true">
+      <name>Складной суперлегкий массажный стол MR KUSH Alula</name>
+      <url>https://timkush.ru/product/48384/</url>
+      <price>44900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48384-p16-062489af.webp</picture>
+      <description>Складной суперлегкий массажный стол MR KUSH Alula. Артикул 48384. Позиция в наличии в Москве, цена за единицу. Самый легкий массажный стол, не используется фанера, а используется плотная резинка внизу. Зелёный, алюминиевая ножка черного цвета; Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48421" available="true">
+      <name>Стул мастера MR KUSH MZ 1025B</name>
+      <url>https://timkush.ru/product/48421/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48421-p30-1f987d58.webp</picture>
+      <description>Стул мастера MR KUSH MZ 1025B. Артикул 48421. Позиция в наличии в Москве, цена за единицу. Стул для косметолога Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48428" available="true">
+      <name>Стационарный стол MR KUSH MZ 2211-304 Цвет: Белый</name>
+      <url>https://timkush.ru/product/48428/</url>
+      <price>74900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48428-p6-d3d2db43.webp</picture>
+      <description>Стационарный стол MR KUSH MZ 2211-304 Цвет: Белый. Моторов: 2 (высота, ругировка наклона + пневматика (подъем ножной секции). Артикул 48428. Позиция в наличии в Москве, цена за единицу. Колесная база С 3-секционным подголовником Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48699" available="true">
+      <name>Покрытие из микрофибры для массажного стола MR KUSH 3в1 COVER M3</name>
+      <url>https://timkush.ru/product/48699/</url>
+      <price>1990</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48699-p25-6ffa94f3.webp</picture>
+      <description>Покрытие из микрофибры для массажного стола MR KUSH 3в1 COVER M3. Артикул 48699. Позиция в наличии в Москве, цена за единицу. Набор микрофибрового покрытия для массажного стола Этот набор из микрофибры, состоящий из трех предметов, предназначен для профессионального использования на массажных столах. Набор включает в себя основное покрытие, специально разработанное для стандартных массажных столов</description>
+    </offer>
+    <offer id="48700" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3585-3 с электроприводом</name>
+      <url>https://timkush.ru/product/48700/</url>
+      <price>59900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48700-p2-8f24a18e.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3585-3 с электроприводом. Моторов: 3 (высота, спина, ноги). Высота регулируется от 61.5 до 83.5 см. Нагрузка до 200 кг. Габариты: 187 × 60 см. Артикул 48700. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48702" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3589 с электроприводом</name>
+      <url>https://timkush.ru/product/48702/</url>
+      <price>79900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48702-p3-c56fe9b0.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3589 с электроприводом. Моторов: 3 (высота, спина, ноги). Высота регулируется от 59 до 82 см. Нагрузка до 200 кг. Габариты: 188 × 60 см. Артикул 48702. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48703" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3563 гидравлическое</name>
+      <url>https://timkush.ru/product/48703/</url>
+      <price>31900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48703-p3-3db83081.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3563 гидравлическое. Привод: Гидравлика (высота). Высота регулируется от 58 до 72 см. Нагрузка до 150 кг. Габариты: 184 × 62 см. Артикул 48703. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48729" available="true">
+      <name>MR KUSH Jade Essence – Скребок гуаша из зеленого нефрита для лица</name>
+      <url>https://timkush.ru/product/48729/</url>
+      <price>350</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48729-p33-19cbcf61.webp</picture>
+      <description>MR KUSH Jade Essence – Скребок гуаша из зеленого нефрита для лица. Размеры: 7,5х5,5 см. Вес: 30 г. Артикул 48729. Позиция в наличии в Москве, цена за единицу. Идеально подходит для комфортного и эффективного массажа всех зон лица, включая чувствительные области вокруг глаз и рта. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="48731" available="true">
+      <name>MR KUSH Dual Serenity – Гладкий нефритовый роллер и скребок гуаша для комплексного ухода за кожей лица</name>
+      <url>https://timkush.ru/product/48731/</url>
+      <price>990</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48731-p33-4fddeead.webp</picture>
+      <description>MR KUSH Dual Serenity – Гладкий нефритовый роллер и скребок гуаша для комплексного ухода за кожей лица. Размеры: 17х14х3 см. Вес: 180 г. Артикул 48731. Позиция в наличии в Москве, цена за единицу. Гладкий нефритовый роллер и скребок гуаша для комплексного ухода за кожей лица. Поставляется в коробке на магнитном замке. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок</description>
+    </offer>
+    <offer id="49012" available="true">
+      <name>Массажный стационарный стол MR KUSH Stationary Pro 1, бежевый</name>
+      <url>https://timkush.ru/product/49012/</url>
+      <price>34900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49012-p14-e19dfe88.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Stationary Pro 1, бежевый. Обивка: Кожа ПВХ. Артикул 49012. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол MR KUSH Stationary Pro 1 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49013" available="true">
+      <name>Массажный стационарный стол MR KUSH Stationary Pro 2, бежевый</name>
+      <url>https://timkush.ru/product/49013/</url>
+      <price>38900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49013-p15-68b4499b.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Stationary Pro 2, бежевый. Обивка: Кожа ПВХ. Артикул 49013. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол MR KUSH Stationary Pro 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49913" available="true">
+      <name>Массажный стационарный стол MR KUSH Goodwill-Basic blue</name>
+      <url>https://timkush.ru/product/49913/</url>
+      <price>99900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49913-p6-45f97672.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Goodwill-Basic blue. Моторов: 1 (высота). Высота регулируется от 46 до 92 см. Нагрузка до 200 кг. Габариты: 194 × 70 см. Артикул 49913. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49914" available="true">
+      <name>Массажный стационарный стол MR KUSH Goodwill-Basic beige</name>
+      <url>https://timkush.ru/product/49914/</url>
+      <price>99900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49914-p5-dd820287.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Goodwill-Basic beige. Моторов: 1 (высота). Высота регулируется от 46 до 92 см. Нагрузка до 200 кг. Габариты: 194 × 70 см. Артикул 49914. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49957" available="true">
+      <name>Подушка с эффектом памяти M003 коричневый</name>
+      <url>https://timkush.ru/product/49957/</url>
+      <price>1800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49957-p37-71cedd61.webp</picture>
+      <description>Подушка с эффектом памяти M003 коричневый. Артикул 49957. Позиция в наличии в Москве, цена за единицу. Размер 60*9 см, цвет КОРИЧНЕВЫЙ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49960" available="true">
+      <name>Валик круглый М002 бежевый</name>
+      <url>https://timkush.ru/product/49960/</url>
+      <price>1950</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49960-p36-ab964728.webp</picture>
+      <description>Валик круглый М002 бежевый. Артикул 49960. Позиция в наличии в Москве, цена за единицу. Размер 60*15 см, цвет БЕЖЕВЫЙ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49961" available="true">
+      <name>Валик круглый M002 15 см крем</name>
+      <url>https://timkush.ru/product/49961/</url>
+      <price>1950</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49961-p36-baf113bd.webp</picture>
+      <description>Валик круглый M002 15 см крем. Артикул 49961. Позиция в наличии в Москве, цена за единицу. Размер 60*15 см, цвет КРЕМ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49962" available="true">
+      <name>Валик полукруглый M001 15 см бежевый</name>
+      <url>https://timkush.ru/product/49962/</url>
+      <price>1800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49962-p37-267768ec.webp</picture>
+      <description>Валик полукруглый M001 15 см бежевый. Артикул 49962. Позиция в наличии в Москве, цена за единицу. Размер 60*9 см, цвет БЕЖЕВЫЙ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="49963" available="true">
+      <name>Валик полукруглый M001 15 см крем</name>
+      <url>https://timkush.ru/product/49963/</url>
+      <price>1800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-49963-p36-ab34e78f.webp</picture>
+      <description>Валик полукруглый M001 15 см крем. Артикул 49963. Позиция в наличии в Москве, цена за единицу. Размер 60*9 см, цвет КРЕМ Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="50691" available="true">
+      <name>Подогреватель камней и масла HSH12</name>
+      <url>https://timkush.ru/product/50691/</url>
+      <price>35000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-50691-p31-0281b1d7.webp</picture>
+      <description>Подогреватель камней и масла HSH12. Артикул 50691. Позиция в наличии в Москве, цена за единицу. Нагреватель для камней из двух камер + подогреватель масла на 3 вида HSH12 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="50961" available="true">
+      <name>Массажный стационарный стол MR KUSH Stationary Pro 1, кофе</name>
+      <url>https://timkush.ru/product/50961/</url>
+      <price>34900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-50961-p15-e19dfe88.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Stationary Pro 1, кофе. Обивка: Кожа ПВХ. Артикул 50961. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол MR KUSH Stationary Pro 1 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="50962" available="true">
+      <name>Массажный стационарный стол MR KUSH Stationary Pro 2, кофе</name>
+      <url>https://timkush.ru/product/50962/</url>
+      <price>38900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-50962-p15-68b4499b.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Stationary Pro 2, кофе. Обивка: Кожа ПВХ. Артикул 50962. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол MR KUSH Stationary Pro 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="50980" available="true">
+      <name>Массажный стол MR KUSH 2238TA</name>
+      <url>https://timkush.ru/product/50980/</url>
+      <price>99900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-50980-p5-6ecaab67.webp</picture>
+      <description>Массажный стол MR KUSH 2238TA. Моторов: 2 (высота, спина). Высота регулируется от 65 до 90 см. Нагрузка до 200 кг. Габариты: 200 × 74 см. Артикул 50980. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="52410" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 S 60 см cream</name>
+      <url>https://timkush.ru/product/52410/</url>
+      <price>9900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-52410-p16-70e9da57.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 S 60 см cream. Обивка: Кожа ПВХ. Артикул 52410. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 S Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="52411" available="true">
+      <name>Массажный складной стол MR KUSH Standart 2 S 60 см coffee</name>
+      <url>https://timkush.ru/product/52411/</url>
+      <price>9900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-52411-p16-753a0b38.webp</picture>
+      <description>Массажный складной стол MR KUSH Standart 2 S 60 см coffee. Обивка: Кожа ПВХ. Артикул 52411. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 S Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="63217" available="true">
+      <name>Массажный стол складной Master Montour LX (76 см)широкий</name>
+      <url>https://timkush.ru/product/63217/</url>
+      <price>89000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-63217-p9-095ff884.webp</picture>
+      <description>Массажный стол складной Master Montour LX (76 см)широкий. Рабочие размеры: 76x183 см. Обивка: NanoSkin™ PU. Пена: 7,6 см. Артикул 63217. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81001" available="true">
+      <name>Стул-седло MR KUSH MZ 1025A</name>
+      <url>https://timkush.ru/product/81001/</url>
+      <price>15000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81001-p28-1acb781a.webp</picture>
+      <description>Стул-седло MR KUSH MZ 1025A. Нагрузка до 175 кг. Габариты: 39 × 64 см. Артикул 81001. Позиция в наличии в Москве, цена за единицу. Белый Регулировка высоты, угла наклона сиденья, высоты спинки, угла наклона спинки) Высота - 44-58 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81002" available="true">
+      <name>Стул-седло MR KUSH MZ 1025A</name>
+      <url>https://timkush.ru/product/81002/</url>
+      <price>15000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81002-p29-1acb781a.webp</picture>
+      <description>Стул-седло MR KUSH MZ 1025A. Нагрузка до 175 кг. Габариты: 39 × 64 см. Артикул 81002. Позиция в наличии в Москве, цена за единицу. Черный Регулировка высоты, угла наклона сиденья, высоты спинки, угла наклона спинки) Высота - 44-58 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81005" available="true">
+      <name>Массажный стол складной Master Argo</name>
+      <url>https://timkush.ru/product/81005/</url>
+      <price>29000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81005-p6-cdd9b62e.webp</picture>
+      <description>Массажный стол складной Master Argo. Рабочие размеры: 71x183 см. Обивка: PU. Пена: 3,8 см. Артикул 81005. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81006" available="true">
+      <name>Массажный стол складной Master Argo</name>
+      <url>https://timkush.ru/product/81006/</url>
+      <price>29000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81006-p6-cdd9b62e.webp</picture>
+      <description>Массажный стол складной Master Argo. Рабочие размеры: 71x183 см. Обивка: PU. Пена: 3,8 см. Артикул 81006. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81008" available="true">
+      <name>Массажный стол складной Master Del Ray Pro</name>
+      <url>https://timkush.ru/product/81008/</url>
+      <price>39000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81008-p7-dac815c8.webp</picture>
+      <description>Массажный стол складной Master Del Ray Pro. Рабочие размеры: 71x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81008. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81010" available="true">
+      <name>Массажный стол складной Master NewPort</name>
+      <url>https://timkush.ru/product/81010/</url>
+      <price>45000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81010-p7-5e4dff11.webp</picture>
+      <description>Массажный стол складной Master NewPort. Рабочие размеры: 76x183 см. Обивка: PU. Пена: 6,5 см. Артикул 81010. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81013" available="true">
+      <name>Массажный стол складной Master Montclair (79 см)широкий</name>
+      <url>https://timkush.ru/product/81013/</url>
+      <price>60000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81013-p8-32d53950.webp</picture>
+      <description>Массажный стол складной Master Montclair (79 см)широкий. Рабочие размеры: 79x184 см. Обивка: PU. Пена: 7,6 см. Артикул 81013. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81014" available="true">
+      <name>Массажный стол складной Master Montclair (79 см)широкий</name>
+      <url>https://timkush.ru/product/81014/</url>
+      <price>60000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81014-p8-32d53950.webp</picture>
+      <description>Массажный стол складной Master Montclair (79 см)широкий. Рабочие размеры: 79x184 см. Обивка: PU. Пена: 7,6 см. Артикул 81014. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81074" available="true">
+      <name>Массажный стол складной Master SUPREME</name>
+      <url>https://timkush.ru/product/81074/</url>
+      <price>75000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81074-p9-6f36c046.webp</picture>
+      <description>Массажный стол складной Master SUPREME. Рабочие размеры: 71x183 см. Обивка: Italia PU. Пена: 7,6 см. Артикул 81074. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81079" available="true">
+      <name>MR KUSH Union Salon</name>
+      <url>https://timkush.ru/product/81079/</url>
+      <price>299000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81079-p5-26279490.webp</picture>
+      <description>MR KUSH Union Salon. Моторов: 4 (высота, спина, ноги, наклон). Высота регулируется от 63 до 86 см. Нагрузка до 200 кг. Габариты: 198 × 79 см. Цвет: Белый. Артикул 81079. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81231" available="true">
+      <name>Массажный стол складной Master Galaxy TT, с подогревом</name>
+      <url>https://timkush.ru/product/81231/</url>
+      <price>89000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81231-p10-a685a9bd.webp</picture>
+      <description>Массажный стол складной Master Galaxy TT, с подогревом. Рабочие размеры: 71x183 см. Обивка: Italia PU. Пена: 7,6 см. Артикул 81231. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81233" available="true">
+      <name>Массажный стол складной Master Monaco Airwave, с воздушным массажем</name>
+      <url>https://timkush.ru/product/81233/</url>
+      <price>110000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81233-p10-0f923cb8.webp</picture>
+      <description>Массажный стол складной Master Monaco Airwave, с воздушным массажем. Рабочие размеры: 76x182 см. Обивка: PU. Пена: 7,6 см. Артикул 81233. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81235" available="true">
+      <name>Массажный стул (кресло для массажа) Master RIO</name>
+      <url>https://timkush.ru/product/81235/</url>
+      <price>70000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81235-p26-69896ddf.webp</picture>
+      <description>Массажный стул (кресло для массажа) Master RIO. Рабочие размеры: 78,7x48 см. Обивка: PU. Пена: 5 см. Артикул 81235. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81237" available="true">
+      <name>Массажный стол стационарный Master AirMaster Airwave, с воздушным массажем</name>
+      <url>https://timkush.ru/product/81237/</url>
+      <price>69900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81237-p12-0418e7cc.webp</picture>
+      <description>Массажный стол стационарный Master AirMaster Airwave, с воздушным массажем. Рабочие размеры: 76x186 см. Обивка: PVC. Пена: 7,6 см. Артикул 81237. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81241" available="true">
+      <name>Массажный стол стационарный Master Harvey Comfort</name>
+      <url>https://timkush.ru/product/81241/</url>
+      <price>49900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81241-p11-188ff6e6.webp</picture>
+      <description>Массажный стол стационарный Master Harvey Comfort. Рабочие размеры: 76x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81241. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81244" available="true">
+      <name>Массажный стол стационарный Master Harvey Tilt</name>
+      <url>https://timkush.ru/product/81244/</url>
+      <price>64900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81244-p11-4be8c461.webp</picture>
+      <description>Массажный стол стационарный Master Harvey Tilt. Рабочие размеры: 76x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81244. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81245" available="true">
+      <name>Массажный стол стационарный Master Laguna TT, с подогревом</name>
+      <url>https://timkush.ru/product/81245/</url>
+      <price>69700</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81245-p11-0676bcdd.webp</picture>
+      <description>Массажный стол стационарный Master Laguna TT, с подогревом. Рабочие размеры: 76x193 см. Обивка: PU. Пена: 6,4 см. Артикул 81245. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81256" available="true">
+      <name>Массажный стол складной Master Gibraltar</name>
+      <url>https://timkush.ru/product/81256/</url>
+      <price>99000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81256-p10-6ad16ea7.webp</picture>
+      <description>Массажный стол складной Master Gibraltar. Рабочие размеры: 81x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81256. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81257" available="true">
+      <name>Массажный стол складной Master ProAir</name>
+      <url>https://timkush.ru/product/81257/</url>
+      <price>79000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81257-p9-5ab5154d.webp</picture>
+      <description>Массажный стол складной Master ProAir. Рабочие размеры: 76x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81257. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81267" available="true">
+      <name>Нагреватель для масла Master HOH2</name>
+      <url>https://timkush.ru/product/81267/</url>
+      <price>4900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Нагреватели и подогреватели</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81267-p38-28ef229e.webp</picture>
+      <description>Нагреватель для масла Master HOH2. Артикул 81267. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81268" available="true">
+      <name>Нагреватель для масла Master HOH4</name>
+      <url>https://timkush.ru/product/81268/</url>
+      <price>9900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Нагреватели и подогреватели</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81268-p38-f4fff5aa.webp</picture>
+      <description>Нагреватель для масла Master HOH4. Артикул 81268. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81276" available="true">
+      <name>Валик для массажа полукруглый Master</name>
+      <url>https://timkush.ru/product/81276/</url>
+      <price>3500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81276-p34-0e718116.webp</picture>
+      <description>Валик для массажа полукруглый Master. Цвет: Чёрный. Состав: Пенополиуретан. Артикул 81276. Позиция в наличии в Москве, цена за единицу. Размер 15х7,5х66 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81277" available="true">
+      <name>Валик для массажа полукруглый Master</name>
+      <url>https://timkush.ru/product/81277/</url>
+      <price>3500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81277-p34-0e718116.webp</picture>
+      <description>Валик для массажа полукруглый Master. Цвет: Синий. Состав: Пенополиуретан. Артикул 81277. Позиция в наличии в Москве, цена за единицу. Размер 15х7,5х66 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81278" available="true">
+      <name>Валик для массажа круглый Master</name>
+      <url>https://timkush.ru/product/81278/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81278-p35-fa4097d5.webp</picture>
+      <description>Валик для массажа круглый Master. Цвет: Чёрный. Размер: 15х66 см. Состав: Пенополиуретан. Артикул 81278. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81279" available="true">
+      <name>Валик для массажа круглый Master</name>
+      <url>https://timkush.ru/product/81279/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81279-p35-fa4097d5.webp</picture>
+      <description>Валик для массажа круглый Master. Цвет: Бежевый. Размер: 15х66 см. Состав: Пенополиуретан. Артикул 81279. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81280" available="true">
+      <name>Валик для массажа полукруглый Master</name>
+      <url>https://timkush.ru/product/81280/</url>
+      <price>3500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81280-p34-0e718116.webp</picture>
+      <description>Валик для массажа полукруглый Master. Цвет: Бежевый. Состав: Пенополиуретан. Артикул 81280. Позиция в наличии в Москве, цена за единицу. Размер 15х7,5х66 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81281" available="true">
+      <name>Валик для массажа круглый Master</name>
+      <url>https://timkush.ru/product/81281/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81281-p35-fa4097d5.webp</picture>
+      <description>Валик для массажа круглый Master. Цвет: Синий. Размер: 15х66 см. Состав: Пенополиуретан. Артикул 81281. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81318" available="true">
+      <name>Lynn-Heaven Salon</name>
+      <url>https://timkush.ru/product/81318/</url>
+      <price>378000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81318-p5-4a919f32.webp</picture>
+      <description>Lynn-Heaven Salon. Моторов: 4 (высота, спина, ноги). Высота регулируется от 63 до 86 см. Нагрузка до 200 кг. Габариты: 198 × 79 см. Артикул 81318. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81385" available="true">
+      <name>Педикюрное кресло MZ 7533 с электроприводом, 3 мотора</name>
+      <url>https://timkush.ru/product/81385/</url>
+      <price>100000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81385-p4-81c5de28.webp</picture>
+      <description>Педикюрное кресло MZ 7533 с электроприводом, 3 мотора. Моторов: 3 (высота, спина, наклон). Высота регулируется от 60 до 83 см. Нагрузка до 210 кг. Габариты: 184 × 59 см. Артикул 81385. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81406" available="true">
+      <name>Опция: замена цвета обивки премиальных столов</name>
+      <url>https://timkush.ru/product/81406/</url>
+      <price>10000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81406-p30-1740ac9a.webp</picture>
+      <description>Опция: замена цвета обивки премиальных столов. Артикул 81406. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81412" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3570 с электроприводом</name>
+      <url>https://timkush.ru/product/81412/</url>
+      <price>93300</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81412-p1-8167f7cb.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3570 с электроприводом. Моторов: 3 (высота, спина, ноги). Высота регулируется от 60 до 83 см. Нагрузка до 150 кг. Габариты: 185 × 59 см. Артикул 81412. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81413" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3570 с ПОДОГРЕВОМ</name>
+      <url>https://timkush.ru/product/81413/</url>
+      <price>98300</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81413-p2-8167f7cb.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3570 с ПОДОГРЕВОМ. Моторов: 3 (высота, спина, ноги). Высота регулируется от 60 до 83 см. Нагрузка до 150 кг. Габариты: 185 × 59 см. Артикул 81413. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81414" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3570 ПУЛЬТ+ПЕДАЛИ</name>
+      <url>https://timkush.ru/product/81414/</url>
+      <price>103300</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81414-p2-8167f7cb.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3570 ПУЛЬТ+ПЕДАЛИ. Моторов: 3 (высота, спина, ноги). Высота регулируется от 60 до 83 см. Нагрузка до 150 кг. Габариты: 185 × 59 см. Артикул 81414. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81415" available="true">
+      <name>Косметологическое кресло MR KUSH MZ 3570 ПОДОГРЕВ+ПУЛЬТ+ПЕДАЛИ</name>
+      <url>https://timkush.ru/product/81415/</url>
+      <price>107300</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81415-p2-8167f7cb.webp</picture>
+      <description>Косметологическое кресло MR KUSH MZ 3570 ПОДОГРЕВ+ПУЛЬТ+ПЕДАЛИ. Моторов: 3 (высота, спина, ноги). Высота регулируется от 60 до 83 см. Нагрузка до 150 кг. Габариты: 185 × 59 см. Артикул 81415. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81422" available="true">
+      <name>Педикюрное кресло MR KUSH MZ 3595 (Партия 2025M07P)</name>
+      <url>https://timkush.ru/product/81422/</url>
+      <price>90000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81422-p3-2-37f066d4.webp</picture>
+      <description>Педикюрное кресло MR KUSH MZ 3595 (Партия 2025M07P). Моторов: 3 (высота, спина, наклон). Подъём ноги до 90 см. Высота регулируется от 58 до 81 см. Нагрузка до 150 кг. Габариты: 185 × 83 см. Артикул 81422. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81422" available="true">
+      <name>Педикюрное кресло MR KUSH MZ 3595</name>
+      <url>https://timkush.ru/product/81422-2/</url>
+      <price>90000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81422-p3-37f066d4.webp</picture>
+      <description>Педикюрное кресло MR KUSH MZ 3595. Моторов: 3 (высота, спина, наклон). Подъём ноги до 110 см. Высота регулируется от 58 до 81 см. Нагрузка до 150 кг. Габариты: 185 × 83 см. Артикул 81422. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81423" available="true">
+      <name>Педикюрное кресло MR KUSH MZ 3595 ПУЛЬТ + ПЕДАЛИ</name>
+      <url>https://timkush.ru/product/81423/</url>
+      <price>99000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81423-p4-37f066d4.webp</picture>
+      <description>Педикюрное кресло MR KUSH MZ 3595 ПУЛЬТ + ПЕДАЛИ. Моторов: 3 (высота, спина, наклон). Подъём ноги до 110 см. Высота регулируется от 58 до 81 см. Нагрузка до 150 кг. Габариты: 185 × 83 см. Артикул 81423. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81446" available="true">
+      <name>Косметологическое кресло MR KUSH Taylor с электроприводом</name>
+      <url>https://timkush.ru/product/81446/</url>
+      <price>149000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81446-p1-91f5885c.webp</picture>
+      <description>Косметологическое кресло MR KUSH Taylor с электроприводом. Моторов: 4 (высота, спина, ноги, наклон). Высота регулируется от 62 до 96 см. Нагрузка до 200 кг. Габариты: 193 × 62 см. Артикул 81446. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81447" available="true">
+      <name>Косметологическое кресло MR KUSH Morley с электроприводом</name>
+      <url>https://timkush.ru/product/81447/</url>
+      <price>139000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81447-p1-ff3c902c.webp</picture>
+      <description>Косметологическое кресло MR KUSH Morley с электроприводом. Моторов: 4 (высота, спина, ноги, наклон). Высота регулируется от 62 до 96 см. Нагрузка до 200 кг. Габариты: 185 × 60 см. Артикул 81447. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81449" available="true">
+      <name>Косметологическое кресло MR KUSH Sonora 230 с электроприводом</name>
+      <url>https://timkush.ru/product/81449/</url>
+      <price>99900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81449-p1-a9e6c9a6.webp</picture>
+      <description>Косметологическое кресло MR KUSH Sonora 230 с электроприводом. Моторов: 3 (высота, спина, ноги). Высота регулируется от 56 до 90 см. Нагрузка до 200 кг. Габариты: 194 × 58 см. Артикул 81449. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81453" available="true">
+      <name>Педикюрное кресло MR KUSH Sonora 260 с электроприводом, 3 мотора</name>
+      <url>https://timkush.ru/product/81453/</url>
+      <price>125000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81453-p4-1d21f3e2.webp</picture>
+      <description>Педикюрное кресло MR KUSH Sonora 260 с электроприводом, 3 мотора. Моторов: 3 (высота, спина, наклон). Высота регулируется от 56 до 90 см. Нагрузка до 200 кг. Габариты: 194 × 58 см. Артикул 81453. Позиция в наличии в Москве, цена за единицу. Ножные секции - пневматика Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81565" available="true">
+      <name>Одноразовые простыни в рулоне SILVER</name>
+      <url>https://timkush.ru/product/81565/</url>
+      <price>590</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81565-p38-860c5052.webp</picture>
+      <description>Одноразовые простыни в рулоне SILVER. Размеры: 200х 80 см. Материал: СММС. Артикул 81565. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81568" available="true">
+      <name>Одноразовые простыни в рулоне GOLD</name>
+      <url>https://timkush.ru/product/81568/</url>
+      <price>1100</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81568-p38-ba9bd85b.webp</picture>
+      <description>Одноразовые простыни в рулоне GOLD. Размеры: 200х 80 см. Материал: СММС. Артикул 81568. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81569" available="true">
+      <name>Одноразовые простыни в рулоне GOLD</name>
+      <url>https://timkush.ru/product/81569/</url>
+      <price>1100</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81569-p39-ba9bd85b.webp</picture>
+      <description>Одноразовые простыни в рулоне GOLD. Размеры: 200х 80 см. Материал: СММС. Артикул 81569. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81571" available="true">
+      <name>Одноразовые простыни в рулоне PLATINUM</name>
+      <url>https://timkush.ru/product/81571/</url>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81571-p39-354c4986.webp</picture>
+      <description>Одноразовые простыни в рулоне PLATINUM. Размеры: 200х 80 см. Материал: СММС. Артикул 81571. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81572" available="true">
+      <name>Одноразовые простыни в рулоне PLATINUM</name>
+      <url>https://timkush.ru/product/81572/</url>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81572-p39-354c4986.webp</picture>
+      <description>Одноразовые простыни в рулоне PLATINUM. Размеры: 200х 80 см. Материал: СММС. Артикул 81572. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81573" available="true">
+      <name>Одноразовые простыни в рулоне PLATINUM</name>
+      <url>https://timkush.ru/product/81573/</url>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81573-p39-354c4986.webp</picture>
+      <description>Одноразовые простыни в рулоне PLATINUM. Размеры: 200х 80 см. Материал: ССС. Артикул 81573. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81575" available="true">
+      <name>Одноразовые простыни в рулоне PLATINUM SOFT</name>
+      <url>https://timkush.ru/product/81575/</url>
+      <price>1300</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81575-p40-0346cbfe.webp</picture>
+      <description>Одноразовые простыни в рулоне PLATINUM SOFT. Размеры: 200х 80 см. Материал: СММС. Артикул 81575. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81578" available="true">
+      <name>Стул мастера MZ 1026DB2</name>
+      <url>https://timkush.ru/product/81578/</url>
+      <price>14900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81578-p29-d6bae12c.webp</picture>
+      <description>Стул мастера MZ 1026DB2. Нагрузка до 175 кг. Габариты: 39 × 64 см. Артикул 81578. Позиция в наличии в Москве, цена за единицу. Высота 44-58 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81579" available="true">
+      <name>Стул мастера MZ 1026DB2</name>
+      <url>https://timkush.ru/product/81579/</url>
+      <price>14900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81579-p29-d6bae12c.webp</picture>
+      <description>Стул мастера MZ 1026DB2. Нагрузка до 175 кг. Габариты: 39 × 64 см. Артикул 81579. Позиция в наличии в Москве, цена за единицу. Высота 44-58 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81580" available="true">
+      <name>Стул мастера MZ 1026DB2</name>
+      <url>https://timkush.ru/product/81580/</url>
+      <price>14900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81580-p29-d6bae12c.webp</picture>
+      <description>Стул мастера MZ 1026DB2. Нагрузка до 175 кг. Габариты: 39 × 64 см. Артикул 81580. Позиция в наличии в Москве, цена за единицу. Высота 44-58 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81587" available="true">
+      <name>Массажный стол складной MR KUSH Standart 2 (S) 60 см beige</name>
+      <url>https://timkush.ru/product/81587/</url>
+      <price>9900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81587-p17-2017f2b5.webp</picture>
+      <description>Массажный стол складной MR KUSH Standart 2 (S) 60 см beige. Обивка: Кожа ПВХ. Артикул 81587. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 S Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81588" available="true">
+      <name>Массажный стол складной MR KUSH Standart 2 (S) 60 см black</name>
+      <url>https://timkush.ru/product/81588/</url>
+      <price>9900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81588-p17-2017f2b5.webp</picture>
+      <description>Массажный стол складной MR KUSH Standart 2 (S) 60 см black. Обивка: Кожа ПВХ. Артикул 81588. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 S Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81589" available="true">
+      <name>Массажный стол складной MR KUSH Standart 2 white</name>
+      <url>https://timkush.ru/product/81589/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81589-p19-f2fc8452.webp</picture>
+      <description>Массажный стол складной MR KUSH Standart 2 white. Обивка: Кожа ПВХ. Артикул 81589. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81590" available="true">
+      <name>Массажный стол складной MR KUSH Standart 2 grey</name>
+      <url>https://timkush.ru/product/81590/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81590-p19-f2fc8452.webp</picture>
+      <description>Массажный стол складной MR KUSH Standart 2 grey. Обивка: Кожа ПВХ. Артикул 81590. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81591" available="true">
+      <name>Массажный стол складной MR KUSH Standart 2 blue</name>
+      <url>https://timkush.ru/product/81591/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81591-p19-f2fc8452.webp</picture>
+      <description>Массажный стол складной MR KUSH Standart 2 blue. Обивка: Кожа ПВХ. Артикул 81591. Позиция в наличии в Москве, цена за единицу. Массажный складной стол Standart 2 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81596" available="true">
+      <name>Одноразовые простыни в рулоне PLATINUM</name>
+      <url>https://timkush.ru/product/81596/</url>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Расходные материалы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81596-p40-354c4986.webp</picture>
+      <description>Одноразовые простыни в рулоне PLATINUM. Размеры: 200х 80 см. Материал: СММС. Артикул 81596. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81609" available="true">
+      <name>Широкий(82см) массажный стационарный стол MR KUSH Classic-Flat SCF3M32</name>
+      <url>https://timkush.ru/product/81609/</url>
+      <price>65000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81609-p13-83a15b5c.webp</picture>
+      <description>Широкий(82см) массажный стационарный стол MR KUSH Classic-Flat SCF3M32. Обивка: Кожа ПВХ. Артикул 81609. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол Classic-Flat S32 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81610" available="true">
+      <name>Широкий(82см) массажный стационарный стол MR KUSH Classic-Tilt SCT3M32</name>
+      <url>https://timkush.ru/product/81610/</url>
+      <price>69000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81610-p14-9f3d9708.webp</picture>
+      <description>Широкий(82см) массажный стационарный стол MR KUSH Classic-Tilt SCT3M32. Обивка: Кожа ПВХ. Артикул 81610. Позиция в наличии в Москве, цена за единицу. Массажный стационарный стол Classic-Tilt S32 Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81611" available="true">
+      <name>Массажный стол стационарный MR KUSH Essence-Tilt - S30+H+S</name>
+      <url>https://timkush.ru/product/81611/</url>
+      <price>49900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81611-p13-dffeb853.webp</picture>
+      <description>Массажный стол стационарный MR KUSH Essence-Tilt - S30+H+S. Обивка: Кожа ПВХ. Артикул 81611. Позиция в наличии в Москве, цена за единицу. Массажный стол стационарный MR KUSH Essence-Tilt - S30+H Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81621" available="true">
+      <name>Массажный стационарный стол MR KUSH Essence-Flat-H30</name>
+      <url>https://timkush.ru/product/81621/</url>
+      <price>44900</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81621-p12-9a084618.webp</picture>
+      <description>Массажный стационарный стол MR KUSH Essence-Flat-H30. Обивка: Кожа ПВХ. Артикул 81621. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81639" available="true">
+      <name>Педикюрное кресло MZ 16033 с электроприводом, 3 мотора</name>
+      <url>https://timkush.ru/product/81639/</url>
+      <price>128500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81639-p4-984ad6ff.webp</picture>
+      <description>Педикюрное кресло MZ 16033 с электроприводом, 3 мотора. Моторов: 3 (высота, спина, наклон). Высота регулируется от 58 до 96 см. Нагрузка до 210 кг. Габариты: 185 × 62 см. Артикул 81639. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81673" available="true">
+      <name>Валик для массажа круглый Master</name>
+      <url>https://timkush.ru/product/81673/</url>
+      <price>4500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81673-p36-fa4097d5.webp</picture>
+      <description>Валик для массажа круглый Master. Цвет: Белый. Размер: 15х66 см. Состав: Пенополиуретан. Артикул 81673. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81674" available="true">
+      <name>Валик для массажа полукруглый Master</name>
+      <url>https://timkush.ru/product/81674/</url>
+      <price>3500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81674-p35-0e718116.webp</picture>
+      <description>Валик для массажа полукруглый Master. Цвет: Белый. Состав: Пенополиуретан. Артикул 81674. Позиция в наличии в Москве, цена за единицу. Размер 15х7,5х66 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81675" available="true">
+      <name>Набор массажных камней для стоун терапии из базальта MR KUSH (4 шт) HXT4</name>
+      <url>https://timkush.ru/product/81675/</url>
+      <price>3500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Валики и массажные принадлежности</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81675-p32-513c71ef.webp</picture>
+      <description>Набор массажных камней для стоун терапии из базальта MR KUSH (4 шт) HXT4. Артикул 81675. Позиция в наличии в Москве, цена за единицу. Набор из 4 больших камней 11,4 x 7,6 x 2,6 см Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81677" available="true">
+      <name>Массажный стол складной Master Del Ray Salon TT с подогревом</name>
+      <url>https://timkush.ru/product/81677/</url>
+      <price>70000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81677-p7-f7f0de4c.webp</picture>
+      <description>Массажный стол складной Master Del Ray Salon TT с подогревом. Рабочие размеры: 71x183 см. Обивка: PU. Пена: 7,6 см. Артикул 81677. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81679" available="true">
+      <name>Массажный стол складной для беременных Master Eva</name>
+      <url>https://timkush.ru/product/81679/</url>
+      <price>70000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81679-p8-2f6f45ec.webp</picture>
+      <description>Массажный стол складной для беременных Master Eva. Рабочие размеры: 76x183 см. Обивка: Italia PU. Пена: 7,6 см. Артикул 81679. Позиция в наличии в Москве, цена за единицу. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="81835" available="true">
+      <name>Стул мастера MR KUSH MZ 1025B</name>
+      <url>https://timkush.ru/product/81835/</url>
+      <price>13500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/mrkush-81835-p30-adaafabb.webp</picture>
+      <description>Стул мастера MR KUSH MZ 1025B. Артикул 81835. Позиция в наличии в Москве, цена за единицу. Стул для косметолога Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="AD-23-06" available="true">
+      <name>Шкаф AD-23-06</name>
+      <url>https://timkush.ru/product/cabinet-ad-23-06/</url>
+      <price>120055</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/ad-23-06-062-de61e38c.webp</picture>
+      <description>AD-23-06 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 110 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="AD-24-01DX" available="true">
+      <name>Черная косметологическая кушетка AD-24-01DX</name>
+      <url>https://timkush.ru/product/cernaa-kosmetologiceskaa-kusetka-ad-24-01dx/</url>
+      <price>124092</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кушетки</categoryId>
+      <picture>https://timkush.ru/img/cernaa-kosmetologiceskaa-kusetka-ad-24-01dx-86f5f907-9516d42e.webp</picture>
+      <description>Черная косметологическая кушетка AD-24-01DX из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 197 см, ширина: 59 см,высота: 74-90 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: usb-разъём, ручной пульт управления, регулировка угла и высоты. Актуальную стоимость, комплектацию и срок поставки уточнит менеджер.</description>
+    </offer>
+    <offer id="AD-24-02DX" available="true">
+      <name>Косметологическая кушетка AD-24-02DX</name>
+      <url>https://timkush.ru/product/kosmetologiceskaa-kusetka-ad-24-02dx/</url>
+      <price>139239</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кушетки</categoryId>
+      <picture>https://timkush.ru/img/kosmetologiceskaa-kusetka-ad-24-02dx-ea7f0df1-f87c12c3.webp</picture>
+      <description>Косметологическая кушетка AD-24-02DX из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 197 см, ширина: 59 см, высота: 74-90 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: ножная педаль управления, ручной пульт управления, вращающееся основание 360°, усиленные тихие моторы, мягкий упругий наполнитель, регулир</description>
+    </offer>
+    <offer id="AD-SA0DSaddleStool" available="true">
+      <name>Стул мастера AD-SA0D Saddle Stool</name>
+      <url>https://timkush.ru/product/stool-ad-sa0d-saddle-stool/</url>
+      <price>8748</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa0d-saddle-stool-077-f80aedee.webp</picture>
+      <description>AD-SA0D Saddle — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM802" available="true">
+      <name>Кресло косметологическое ADM802</name>
+      <url>https://timkush.ru/product/cosmetic-adm802/</url>
+      <price>84159</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm802-009-c4913a0a.webp</picture>
+      <description>ADM802 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM811-3" available="true">
+      <name>Кресло косметологическое ADM811-3</name>
+      <url>https://timkush.ru/product/cosmetic-adm811-3/</url>
+      <price>78948</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm811-3-014-e81744ed.webp</picture>
+      <description>ADM811-3 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 65/75 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM811-3B" available="true">
+      <name>Кресло косметологическое ADM811-3B</name>
+      <url>https://timkush.ru/product/cosmetic-adm811-3b/</url>
+      <price>86373</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm811-3b-015-924677fb.webp</picture>
+      <description>ADM811-3B — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 65/75 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM813" available="true">
+      <name>Кресло косметологическое ADM813</name>
+      <url>https://timkush.ru/product/cosmetic-adm813/</url>
+      <price>81540</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm813-068-06ebbaa8.webp</picture>
+      <description>ADM813 — под заказ из Китая. Моторов: 1, нагрузка до 250 кг, вес 40/50 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM814" available="true">
+      <name>Массажный стол ADM814</name>
+      <url>https://timkush.ru/product/massagetable-adm814/</url>
+      <price>97105</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/adm814-012-c06e4d9e.webp</picture>
+      <description>ADM814 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM814-3" available="true">
+      <name>Кресло косметологическое ADM814-3</name>
+      <url>https://timkush.ru/product/cosmetic-adm814-3/</url>
+      <price>97105</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm814-3-013-ec02965d.webp</picture>
+      <description>ADM814-3 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM815" available="true">
+      <name>Кресло косметологическое ADM815</name>
+      <url>https://timkush.ru/product/cosmetic-adm815/</url>
+      <price>101695</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm815-056-3f66ff53.webp</picture>
+      <description>ADM815 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 61/85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM817" available="true">
+      <name>Кресло косметологическое ADM817</name>
+      <url>https://timkush.ru/product/cosmetic-adm817/</url>
+      <price>92988</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm817-016-42084d7a.webp</picture>
+      <description>ADM817 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM818" available="true">
+      <name>Косметологическое кресло ADM818</name>
+      <url>https://timkush.ru/product/kosmetologiceskoe-kreslo-adm818/</url>
+      <price>93960</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/kosmetologiceskoe-kreslo-adm818-63daf58e-af8489f3.webp</picture>
+      <description>Косметологическое кресло ADM818 из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 186 см, ширина: 62 см, высота: 54.5-81 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: раздельная регулировка секций для ног, ручной пульт управления, регулировка угла и высоты. Актуальную стоимость, комплектацию и срок поставки</description>
+    </offer>
+    <offer id="ADM826" available="true">
+      <name>Кресло косметологическое ADM826</name>
+      <url>https://timkush.ru/product/cosmetic-adm826/</url>
+      <price>120703</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm826-018-8811d366.webp</picture>
+      <description>ADM826 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 65/75 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM832" available="true">
+      <name>Кресло косметологическое ADM832</name>
+      <url>https://timkush.ru/product/cosmetic-adm832/</url>
+      <price>85725</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm832-069-10e743a8.webp</picture>
+      <description>ADM832 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 40/50 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ADM837" available="true">
+      <name>Кресло косметологическое ADM837</name>
+      <url>https://timkush.ru/product/cosmetic-adm837/</url>
+      <price>121554</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/adm837-064-417a9e3f.webp</picture>
+      <description>ADM837 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100/116 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="BE01" available="true">
+      <name>Тележка BE01</name>
+      <url>https://timkush.ru/product/cart-be01/</url>
+      <price>41674</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ad-be01-005-74b85dc2.webp</picture>
+      <description>BE01 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="BTB-02" available="true">
+      <name>Педикюрное кресло-кушетка BTB-02</name>
+      <url>https://timkush.ru/product/pedikurnoe-kreslo-kusetka-btb-02/</url>
+      <price>184977</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кушетки</categoryId>
+      <picture>https://timkush.ru/img/pedikurnoe-kreslo-kusetka-btb-02-6654803b-c18985f6.webp</picture>
+      <description>Педикюрное кресло-кушетка BTB-02 из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 190 см, ширина: 58 см, высота: 60-92 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: раздельная регулировка секций для ног, ручной пульт управления, регулировка угла и высоты. Актуальную стоимость, комплектацию и срок поставки </description>
+    </offer>
+    <offer id="BTB-02B" available="true">
+      <name>Кресло педикюрное BTB-02B</name>
+      <url>https://timkush.ru/product/pedicure-btb-02b/</url>
+      <price>102424</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/btb-02b-031-21778b95.webp</picture>
+      <description>BTB-02B — под заказ из Китая. Моторов: 5, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CME01" available="true">
+      <name>Шкаф CME01</name>
+      <url>https://timkush.ru/product/cabinet-cme01/</url>
+      <price>73507</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cme01-070-ed05911a.webp</picture>
+      <description>CME01 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 40/50 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CSM19" available="true">
+      <name>Шкаф CSM19</name>
+      <url>https://timkush.ru/product/cabinet-csm19/</url>
+      <price>762061</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/csm19-034-fd4e3780.webp</picture>
+      <description>CSM19 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CSM21" available="true">
+      <name>Шкаф CSM21</name>
+      <url>https://timkush.ru/product/cabinet-csm21/</url>
+      <price>395347</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/csm21-036-7620368d.webp</picture>
+      <description>CSM21 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CSM22" available="true">
+      <name>Шкаф CSM22</name>
+      <url>https://timkush.ru/product/cabinet-csm22/</url>
+      <price>457312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/csm22-037-faff42a2.webp</picture>
+      <description>CSM22 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CSM23" available="true">
+      <name>Шкаф CSM23</name>
+      <url>https://timkush.ru/product/cabinet-csm23/</url>
+      <price>418810</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/csm23-038-0e1f4780.webp</picture>
+      <description>CSM23 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST01C" available="true">
+      <name>Шкаф CST01C</name>
+      <url>https://timkush.ru/product/cabinet-cst01c/</url>
+      <price>173907</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst01c-023-b9c2962c.webp</picture>
+      <description>CST01C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST02C" available="true">
+      <name>Шкаф CST02C</name>
+      <url>https://timkush.ru/product/cabinet-cst02c/</url>
+      <price>189472</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst02c-024-81eafb65.webp</picture>
+      <description>CST02C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST03C" available="true">
+      <name>Шкаф CST03C</name>
+      <url>https://timkush.ru/product/cabinet-cst03c/</url>
+      <price>189472</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst03c-025-a538d1b7.webp</picture>
+      <description>CST03C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST04C" available="true">
+      <name>Шкаф CST04C</name>
+      <url>https://timkush.ru/product/cabinet-cst04c/</url>
+      <price>182587</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst04c-026-17add3e0.webp</picture>
+      <description>CST04C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST05C" available="true">
+      <name>Шкаф CST05C</name>
+      <url>https://timkush.ru/product/cabinet-cst05c/</url>
+      <price>180157</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst05c-027-152ee045.webp</picture>
+      <description>CST05C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST06C" available="true">
+      <name>Шкаф CST06C</name>
+      <url>https://timkush.ru/product/cabinet-cst06c/</url>
+      <price>276831</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst06c-028-2361fd86.webp</picture>
+      <description>CST06C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST07C" available="true">
+      <name>Шкаф CST07C</name>
+      <url>https://timkush.ru/product/cabinet-cst07c/</url>
+      <price>225423</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst07c-029-f2e67032.webp</picture>
+      <description>CST07C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST08C" available="true">
+      <name>Шкаф CST08C</name>
+      <url>https://timkush.ru/product/cabinet-cst08c/</url>
+      <price>248062</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst08c-030-af505568.webp</picture>
+      <description>CST08C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST09C" available="true">
+      <name>Шкаф CST09C</name>
+      <url>https://timkush.ru/product/cabinet-cst09c/</url>
+      <price>415044</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst09c-031-77355760.webp</picture>
+      <description>CST09C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST10C" available="true">
+      <name>Шкаф CST10C</name>
+      <url>https://timkush.ru/product/cabinet-cst10c/</url>
+      <price>411790</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst10c-032-04c8fb5a.webp</picture>
+      <description>CST10C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST11C" available="true">
+      <name>Шкаф CST11C</name>
+      <url>https://timkush.ru/product/cabinet-cst11c/</url>
+      <price>412128</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst11c-033-8077c049.webp</picture>
+      <description>CST11C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="CST12C" available="true">
+      <name>Шкаф CST12C</name>
+      <url>https://timkush.ru/product/cabinet-cst12c/</url>
+      <price>297000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/cst12c-035-78e068a9.webp</picture>
+      <description>CST12C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E01" available="true">
+      <name>Кресло косметологическое E01</name>
+      <url>https://timkush.ru/product/cosmetic-e01/</url>
+      <price>94419</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e01-034-208efc37.webp</picture>
+      <description>E01 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 78 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E012" available="true">
+      <name>Кресло педикюрное E012</name>
+      <url>https://timkush.ru/product/pedicure-e012/</url>
+      <price>103086</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e012-035-f809c6b8.webp</picture>
+      <description>E012 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 78 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E016-2B" available="true">
+      <name>Кресло педикюрное E016-2B</name>
+      <url>https://timkush.ru/product/pedicure-e016-2b/</url>
+      <price>148338</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e016-2b-027-63d3132c.webp</picture>
+      <description>E016-2B — под заказ из Китая. Моторов: 5, нагрузка до 250 кг, вес 100 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E016-3C" available="true">
+      <name>Кресло педикюрное E016-3C</name>
+      <url>https://timkush.ru/product/pedicure-e016-3c/</url>
+      <price>134568</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e016-3c-021-c2310368.webp</picture>
+      <description>E016-3C — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 90 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E018C" available="true">
+      <name>Кресло педикюрное E018C</name>
+      <url>https://timkush.ru/product/pedicure-e018c/</url>
+      <price>93636</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e018c-032-735770e8.webp</picture>
+      <description>E018C — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E019-1" available="true">
+      <name>Кресло косметологическое E019-1</name>
+      <url>https://timkush.ru/product/cosmetic-e019-1/</url>
+      <price>90355</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e019-1-019-ff3c22a6.webp</picture>
+      <description>E019-1 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E02-1" available="true">
+      <name>Кресло косметологическое E02-1</name>
+      <url>https://timkush.ru/product/cosmetic-e02-1/</url>
+      <price>84159</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e02-1-010-dff6571a.webp</picture>
+      <description>E02-1 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 80 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E02-3" available="true">
+      <name>Кресло косметологическое E02-3</name>
+      <url>https://timkush.ru/product/cosmetic-e02-3/</url>
+      <price>95013</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e02-3-011-4a6f4c39.webp</picture>
+      <description>E02-3 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 78 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E03" available="true">
+      <name>Кресло косметологическое E03</name>
+      <url>https://timkush.ru/product/cosmetic-e03/</url>
+      <price>98253</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e03-036-795c955c.webp</picture>
+      <description>E03 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 76/85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E05" available="true">
+      <name>Кресло косметологическое E05</name>
+      <url>https://timkush.ru/product/cosmetic-e05/</url>
+      <price>107379</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e05-033-a900de96.webp</picture>
+      <description>E05 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 78 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-01" available="true">
+      <name>Кресло косметологическое E22-01</name>
+      <url>https://timkush.ru/product/cosmetic-e22-01/</url>
+      <price>123511</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-01-000-1806d1d5.webp</picture>
+      <description>E22-01 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-02" available="true">
+      <name>Кресло педикюрное E22-02</name>
+      <url>https://timkush.ru/product/pedicure-e22-02/</url>
+      <price>97551</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-02-037-caba4187.webp</picture>
+      <description>E22-02 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 75/85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-03" available="true">
+      <name>Кресло косметологическое E22-03</name>
+      <url>https://timkush.ru/product/cosmetic-e22-03/</url>
+      <price>106326</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-03-038-ddfb66c5.webp</picture>
+      <description>E22-03 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 75/85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-04" available="true">
+      <name>Кресло косметологическое E22-04</name>
+      <url>https://timkush.ru/product/cosmetic-e22-04/</url>
+      <price>110295</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-04-005-725d8592.webp</picture>
+      <description>E22-04 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-04B" available="true">
+      <name>Кресло косметологическое E22-04B</name>
+      <url>https://timkush.ru/product/cosmetic-e22-04b/</url>
+      <price>113670</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-04b-006-4cf55d5a.webp</picture>
+      <description>E22-04B — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 85 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="E22-05" available="true">
+      <name>Кресло косметологическое E22-05</name>
+      <url>https://timkush.ru/product/cosmetic-e22-05/</url>
+      <price>164862</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/e22-05-004-590d6c7a.webp</picture>
+      <description>E22-05 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 130 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="FBC-001" available="true">
+      <name>Тележка FBC-001</name>
+      <url>https://timkush.ru/product/cart-fbc-001/</url>
+      <price>27256</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/fbc-001-074-231a2f1c.webp</picture>
+      <description>FBC-001 — под заказ из Китая. Нагрузка до 200 кг. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="GB-005" available="true">
+      <name>Кресло педикюрное GB-005</name>
+      <url>https://timkush.ru/product/pedicure-gb-005/</url>
+      <price>102870</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/gb-005-040-556a2afe.webp</picture>
+      <description>GB-005 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 108/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="GB-005C" available="true">
+      <name>Кресло косметологическое GB-005C</name>
+      <url>https://timkush.ru/product/cosmetic-gb-005c/</url>
+      <price>110902</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/gb-005c-039-643d806f.webp</picture>
+      <description>GB-005C — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 85/95 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="GMY23-03" available="true">
+      <name>Кресло педикюрное GMY23-03</name>
+      <url>https://timkush.ru/product/pedicure-gmy23-03/</url>
+      <price>123484</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/gmy23-03-041-1236537f.webp</picture>
+      <description>GMY23-03 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 100/110 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="GoldenTrolley" available="true">
+      <name>Тележка Golden Trolley</name>
+      <url>https://timkush.ru/product/cart-golden-trolley/</url>
+      <price>15282</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/golden-trolley-088-d20d7d99.webp</picture>
+      <description>Golden Trolley — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="HeadSpaBed" available="true">
+      <name>Массажный стол Head Spa Bed</name>
+      <url>https://timkush.ru/product/massagetable-head-spa-bed/</url>
+      <price>132138</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/head-spa-bed-075-b25f0f07.webp</picture>
+      <description>Head Spa Bed — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="LASH-01" available="true">
+      <name>Кресло для наращивания ресниц LASH-01</name>
+      <url>https://timkush.ru/product/lash-lash-01/</url>
+      <price>70038</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/lash-01-071-9ba74622.webp</picture>
+      <description>LASH-01 — под заказ из Китая. Нагрузка до 150 кг. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="LashLight" available="true">
+      <name>Кресло для наращивания ресниц Lash Light</name>
+      <url>https://timkush.ru/product/lash-lash-light/</url>
+      <price>7897</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/lash-light-089-fa7a182a.webp</picture>
+      <description>Lash Light — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="M845" available="true">
+      <name>Шкаф M845</name>
+      <url>https://timkush.ru/product/cabinet-m845/</url>
+      <price>144288</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/ad-m845-058-4c195c02.webp</picture>
+      <description>M845 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100/116 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT001" available="true">
+      <name>Массажный стол MBT001</name>
+      <url>https://timkush.ru/product/massagetable-mbt001/</url>
+      <price>170518</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt001-066-9b003087.webp</picture>
+      <description>MBT001 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 135/165 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT001B" available="true">
+      <name>Массажный стол MBT001B, с подогревом, с массажем</name>
+      <url>https://timkush.ru/product/massagetable-mbt001b/</url>
+      <price>155965</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt001b-048-c02e6bc9.webp</picture>
+      <description>MBT001B — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 150/180 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT002" available="true">
+      <name>Массажный стол MBT002</name>
+      <url>https://timkush.ru/product/massagetable-mbt002/</url>
+      <price>101763</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt002-042-8dbbcb81.webp</picture>
+      <description>MBT002 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT002B" available="true">
+      <name>Массажный стол MBT002B</name>
+      <url>https://timkush.ru/product/massagetable-mbt002b/</url>
+      <price>97551</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt002b-045-3f6e0309.webp</picture>
+      <description>MBT002B — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 85/102 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT002C" available="true">
+      <name>Массажный стол MBT002C</name>
+      <url>https://timkush.ru/product/massagetable-mbt002c/</url>
+      <price>102208</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt002c-044-120b3f76.webp</picture>
+      <description>MBT002C — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 100/116 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT002S" available="true">
+      <name>Массажный стол MBT002S</name>
+      <url>https://timkush.ru/product/massagetable-mbt002s/</url>
+      <price>101763</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt002s-043-1a82828c.webp</picture>
+      <description>MBT002S — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MBT23-01" available="true">
+      <name>Массажный стол с тумбой MBT23-01</name>
+      <url>https://timkush.ru/product/massagetablecabinet-mbt23-01/</url>
+      <price>132394</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mbt23-01-054-bb9d7e35.webp</picture>
+      <description>MBT23-01 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 110/130 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="ML6619" available="true">
+      <name>Кресло косметологическое ML6619</name>
+      <url>https://timkush.ru/product/cosmetic-ml6619/</url>
+      <price>98523</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/ad-ml6619-buit-in-foot-controlled-017-96c9f372.webp</picture>
+      <description>ML6619 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 65/75 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MM01" available="true">
+      <name>Кресло для наращивания ресниц MM01</name>
+      <url>https://timkush.ru/product/lash-mm01/</url>
+      <price>131382</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/ad-mm01-059-8bc469e2.webp</picture>
+      <description>MM01 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 110/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MM01B" available="true">
+      <name>Кресло для наращивания ресниц MM01B</name>
+      <url>https://timkush.ru/product/lash-mm01b/</url>
+      <price>131382</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/ad-mm01b-060-2e7658e2.webp</picture>
+      <description>MM01B — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 110/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MM02" available="true">
+      <name>Кресло для наращивания ресниц MM02</name>
+      <url>https://timkush.ru/product/lash-mm02/</url>
+      <price>119232</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/ad-mm02-061-a01806db.webp</picture>
+      <description>MM02 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 110/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MNM21" available="true">
+      <name>Шкаф MNM21</name>
+      <url>https://timkush.ru/product/cabinet-mnm21/</url>
+      <price>41418</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mnm21-022-6bd1f132.webp</picture>
+      <description>MNM21 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MQ-009" available="true">
+      <name>Тележка MQ-009</name>
+      <url>https://timkush.ru/product/cart-mq-009/</url>
+      <price>74331</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/mq-009-044-052613ba.webp</picture>
+      <description>MQ-009 — под заказ из Китая. Напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MQ-A3" available="true">
+      <name>Тележка MQ-A3</name>
+      <url>https://timkush.ru/product/cart-mq-a3/</url>
+      <price>35788</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/mq-a3-003-eb6343d9.webp</picture>
+      <description>MQ-A3 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT22-01" available="true">
+      <name>SPA массажная кушетка MT22-01</name>
+      <url>https://timkush.ru/product/spa-massajnaa-kusetka-mt22-01/</url>
+      <price>163120</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кушетки</categoryId>
+      <picture>https://timkush.ru/img/spa-massajnaa-kusetka-mt22-01-d88ea0ed-99c4d382.webp</picture>
+      <description>SPA массажная кушетка MT22-01 из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 190 см, ширина: 78 см, высота: 62-87 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: ручной пульт управления, светодиодная подсветка, регулировка угла и высоты. Актуальную стоимость, комплектацию и срок поставки уточнит менеджер. </description>
+    </offer>
+    <offer id="MT22-01B" available="true">
+      <name>Массажный стол MT22-01B</name>
+      <url>https://timkush.ru/product/massagetable-mt22-01b/</url>
+      <price>189715</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt22-01b-047-a66fd1cf.webp</picture>
+      <description>MT22-01B — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 150/180 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT22-01C" available="true">
+      <name>SPA массажная кушетка MT22-01C</name>
+      <url>https://timkush.ru/product/spa-massajnaa-kusetka-mt22-01c/</url>
+      <price>171490</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кушетки</categoryId>
+      <picture>https://timkush.ru/img/spa-massajnaa-kusetka-mt22-01c-45c4ba5c-6a6f9c8b.webp</picture>
+      <description>SPA массажная кушетка MT22-01C из коллекции 2026 Timkush. По данным фабричного каталога: напряжение - 110V/220V; габариты - Длина: 192 см, ширина: 78 см.высота: 62-87 см; обивка - ПВХ-кожа,(опция: микрофибра); максимальная нагрузка - 250 кг. Особенности: светодиодная подсветка, регулировка угла и высоты. Актуальную стоимость, комплектацию и срок поставки уточнит менеджер. Светодиодная подсветка Ре</description>
+    </offer>
+    <offer id="MT22-01E" available="true">
+      <name>Массажный стол MT22-01E</name>
+      <url>https://timkush.ru/product/massagetable-mt22-01e/</url>
+      <price>178105</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt22-01e-051-c02e6bc9.webp</picture>
+      <description>MT22-01E — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 150/180 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT22-02" available="true">
+      <name>Массажный стол MT22-02</name>
+      <url>https://timkush.ru/product/massagetable-mt22-02/</url>
+      <price>128020</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt22-02-053-e89fa5c0.webp</picture>
+      <description>MT22-02 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 100/110 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT22-02B" available="true">
+      <name>Массажный стол с тумбой MT22-02B</name>
+      <url>https://timkush.ru/product/massagetablecabinet-mt22-02b/</url>
+      <price>163390</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt22-02b-052-9f8c7961.webp</picture>
+      <description>MT22-02B — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 110/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT22-03" available="true">
+      <name>Массажный стол MT22-03</name>
+      <url>https://timkush.ru/product/massagetable-mt22-03/</url>
+      <price>153940</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt22-03-067-e4823ea9.webp</picture>
+      <description>MT22-03 — под заказ из Китая. Моторов: 2, нагрузка до 250 кг, вес 80/90 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT23-02" available="true">
+      <name>Массажный стол с тумбой MT23-02</name>
+      <url>https://timkush.ru/product/massagetablecabinet-mt23-02/</url>
+      <price>150970</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt23-02-055-384287d0.webp</picture>
+      <description>MT23-02 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 110/120 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT23-03" available="true">
+      <name>Массажный стол MT23-03</name>
+      <url>https://timkush.ru/product/massagetable-mt23-03/</url>
+      <price>131193</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt23-03-057-0ba39df1.webp</picture>
+      <description>MT23-03 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100/116 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT23-04" available="true">
+      <name>Массажный стол MT23-04</name>
+      <url>https://timkush.ru/product/massagetable-mt23-04/</url>
+      <price>131193</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt23-04-063-6d561551.webp</picture>
+      <description>MT23-04 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100/116 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="MT23-05" available="true">
+      <name>Массажный стол MT23-05</name>
+      <url>https://timkush.ru/product/massagetable-mt23-05/</url>
+      <price>135445</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Массажные столы</categoryId>
+      <picture>https://timkush.ru/img/mt23-05-065-97a22e4e.webp</picture>
+      <description>MT23-05 — под заказ из Китая. Моторов: 3, нагрузка до 250 кг, вес 100/110 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="PC006" available="true">
+      <name>Кресло педикюрное PC006</name>
+      <url>https://timkush.ru/product/pedicure-pc006/</url>
+      <price>123025</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Кресла</categoryId>
+      <picture>https://timkush.ru/img/pedicure-chair-pc006-030-41d2af5a.webp</picture>
+      <description>PC006 — под заказ из Китая. Моторов: 4, нагрузка до 250 кг, вес 78 кг, напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA04" available="true">
+      <name>Стул мастера SA04</name>
+      <url>https://timkush.ru/product/stool-sa04/</url>
+      <price>12312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa04-saddle-stool-076-4afd8b31.webp</picture>
+      <description>SA04 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA04B" available="true">
+      <name>Стул мастера SA04B</name>
+      <url>https://timkush.ru/product/stool-sa04b/</url>
+      <price>12312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa04b-stool-078-96b70dd7.webp</picture>
+      <description>SA04B — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA04C" available="true">
+      <name>Стул мастера SA04C</name>
+      <url>https://timkush.ru/product/stool-sa04c/</url>
+      <price>12312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa04c-stool-079-ef0affb7.webp</picture>
+      <description>SA04C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA07" available="true">
+      <name>Стул мастера SA07</name>
+      <url>https://timkush.ru/product/stool-sa07/</url>
+      <price>12312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa07-080-2db1fef5.webp</picture>
+      <description>SA07 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA08" available="true">
+      <name>Стул мастера SA08</name>
+      <url>https://timkush.ru/product/stool-sa08/</url>
+      <price>12987</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa08-081-de40003e.webp</picture>
+      <description>SA08 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA09" available="true">
+      <name>Стул мастера SA09</name>
+      <url>https://timkush.ru/product/stool-sa09/</url>
+      <price>9288</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa09-082-ffbb6cb6.webp</picture>
+      <description>SA09 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA10" available="true">
+      <name>Стул мастера SA10</name>
+      <url>https://timkush.ru/product/stool-sa10/</url>
+      <price>14607</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa10-087-b5940983.webp</picture>
+      <description>SA10 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA11" available="true">
+      <name>Стул мастера SA11</name>
+      <url>https://timkush.ru/product/stool-sa11/</url>
+      <price>7398</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa11-084-2026339b.webp</picture>
+      <description>SA11 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA12" available="true">
+      <name>Стул мастера SA12</name>
+      <url>https://timkush.ru/product/stool-sa12/</url>
+      <price>14607</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa12-085-c3c77878.webp</picture>
+      <description>SA12 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA13" available="true">
+      <name>Стул мастера SA13</name>
+      <url>https://timkush.ru/product/stool-sa13/</url>
+      <price>18940</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa13-086-63a0fb4a.webp</picture>
+      <description>SA13 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SA14" available="true">
+      <name>Стул мастера SA14</name>
+      <url>https://timkush.ru/product/stool-sa14/</url>
+      <price>12312</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/ad-sa14-083-28cd5b4b.webp</picture>
+      <description>SA14 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SC-23-02" available="true">
+      <name>Стул мастера SC-23-02</name>
+      <url>https://timkush.ru/product/stool-sc-23-02/</url>
+      <price>47358</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/sc-23-02-006-9c08b0c2.webp</picture>
+      <description>SC-23-02 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SC-23-03" available="true">
+      <name>Стул мастера SC-23-03</name>
+      <url>https://timkush.ru/product/stool-sc-23-03/</url>
+      <price>48424</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Стулья мастера</categoryId>
+      <picture>https://timkush.ru/img/sc-23-03-007-a35db9ec.webp</picture>
+      <description>SC-23-03 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SCY014" available="true">
+      <name>Шкаф SCY014</name>
+      <url>https://timkush.ru/product/cabinet-scy014/</url>
+      <price>27904</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/scy014-046-3749817f.webp</picture>
+      <description>SCY014 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="SCY015" available="true">
+      <name>Шкаф SCY015</name>
+      <url>https://timkush.ru/product/cabinet-scy015/</url>
+      <price>32224</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/scy015-047-ce4b8d96.webp</picture>
+      <description>SCY015 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="TC-10-04" available="true">
+      <name>Тележка и полки TC-10-04</name>
+      <url>https://timkush.ru/product/telejka-i-polki-tc-10-04/</url>
+      <price>13729</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/telejka-i-polki-tc-10-04-2f7ff752-e34bab58.webp</picture>
+      <description>Тележка и полки TC-10-04 из коллекции 2026 Timkush. По данным фабричного каталога: габариты - высота: 780 мм; размер упаковки - 76 × 47 × 25 см; вес брутто - 21 кг. Особенности: стальная конструкция. Актуальную стоимость, комплектацию и срок поставки уточнит менеджер. Стальная конструкция Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяц</description>
+    </offer>
+    <offer id="TC-10-04C" available="true">
+      <name>Шкаф TC-10-04C</name>
+      <url>https://timkush.ru/product/cabinet-tc-10-04c/</url>
+      <price>14269</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/tc-10-04c-049-16b5dddb.webp</picture>
+      <description>TC-10-04C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="TC-10-04E" available="true">
+      <name>Шкаф TC-10-04E</name>
+      <url>https://timkush.ru/product/cabinet-tc-10-04e/</url>
+      <price>15444</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/tc-10-04e-050-d967dc6a.webp</picture>
+      <description>TC-10-04E — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="TC-25-C" available="true">
+      <name>Шкаф TC-25-C</name>
+      <url>https://timkush.ru/product/cabinet-tc-25-c/</url>
+      <price>20952</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/tc-25-c-051-cca7e7ad.webp</picture>
+      <description>TC-25-C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="TC-25-D" available="true">
+      <name>Шкаф TC-25-D</name>
+      <url>https://timkush.ru/product/cabinet-tc-25-d/</url>
+      <price>28107</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/tc-25-d-052-7444501c.webp</picture>
+      <description>TC-25-D — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Trinity" available="true">
+      <name>MR KUSH Trinity Harmony 3 в 1 зеленый</name>
+      <url>https://timkush.ru/product/trinity/</url>
+      <price>1190</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48733-p33-7776ad43.webp</picture>
+      <description>MR KUSH Trinity Harmony 3 в 1 зеленый. Размеры: 17х14х3 см. Артикул 48733. Позиция в наличии в Москве, цена за единицу. Скребок, два роллера. Поставляется в картонной коробке. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Trinity" available="true">
+      <name>MR KUSH Trinity Harmony 3 в 1 черный</name>
+      <url>https://timkush.ru/product/trinity-2/</url>
+      <price>1190</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48734-p34-7776ad43.webp</picture>
+      <description>MR KUSH Trinity Harmony 3 в 1 черный. Размеры: 17х14х3 см. Артикул 48734. Позиция в наличии в Москве, цена за единицу. Скребок, два роллера. Поставляется в картонной коробке. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Trinity" available="true">
+      <name>MR KUSH Trinity Harmony 3 в 1 белый</name>
+      <url>https://timkush.ru/product/trinity-3/</url>
+      <price>1190</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mrkush-48732-p33-7776ad43.webp</picture>
+      <description>MR KUSH Trinity Harmony 3 в 1 белый. Размеры: 17х14х3 см. Артикул 48732. Позиция в наличии в Москве, цена за единицу. Скребок, два роллера. Поставляется в картонной коробке. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="WA11" available="true">
+      <name>Шкаф WA11</name>
+      <url>https://timkush.ru/product/cabinet-wa11/</url>
+      <price>96363</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/wa11-039-0e57732c.webp</picture>
+      <description>WA11 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="WA12" available="true">
+      <name>Шкаф WA12</name>
+      <url>https://timkush.ru/product/cabinet-wa12/</url>
+      <price>98023</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/wa12-040-216e2b33.webp</picture>
+      <description>WA12 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y0013A" available="true">
+      <name>Шкаф Y0013A</name>
+      <url>https://timkush.ru/product/cabinet-y0013a/</url>
+      <price>37368</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/treatment-bed-008ss-007-a3a5a9d0.webp</picture>
+      <description>Y0013A — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y001A" available="true">
+      <name>Шкаф Y001A</name>
+      <url>https://timkush.ru/product/cabinet-y001a/</url>
+      <price>33858</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/</picture>
+      <description>Y001A — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y002A" available="true">
+      <name>Шкаф Y002A</name>
+      <url>https://timkush.ru/product/cabinet-y002a/</url>
+      <price>34938</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y002a-001-8505d4ed.webp</picture>
+      <description>Y002A — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y002B" available="true">
+      <name>Шкаф Y002B</name>
+      <url>https://timkush.ru/product/cabinet-y002b/</url>
+      <price>34938</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/</picture>
+      <description>Y002B — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y002C" available="true">
+      <name>Шкаф Y002C</name>
+      <url>https://timkush.ru/product/cabinet-y002c/</url>
+      <price>34938</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/</picture>
+      <description>Y002C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y003A" available="true">
+      <name>Шкаф Y003A</name>
+      <url>https://timkush.ru/product/cabinet-y003a/</url>
+      <price>42673</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/</picture>
+      <description>Y003A — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y003B" available="true">
+      <name>Шкаф Y003B</name>
+      <url>https://timkush.ru/product/cabinet-y003b/</url>
+      <price>43105</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y003b-014-39401050.webp</picture>
+      <description>Y003B — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y003C" available="true">
+      <name>Шкаф Y003C</name>
+      <url>https://timkush.ru/product/cabinet-y003c/</url>
+      <price>44698</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/</picture>
+      <description>Y003C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y004" available="true">
+      <name>Шкаф Y004</name>
+      <url>https://timkush.ru/product/cabinet-y004/</url>
+      <price>37624</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y004-015-747abd35.webp</picture>
+      <description>Y004 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y004B" available="true">
+      <name>Шкаф Y004B</name>
+      <url>https://timkush.ru/product/cabinet-y004b/</url>
+      <price>37624</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y004b-016-ad279985.webp</picture>
+      <description>Y004B — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y006" available="true">
+      <name>Шкаф Y006</name>
+      <url>https://timkush.ru/product/cabinet-y006/</url>
+      <price>37624</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/treatment-bed-008ss-007-a3a5a9d0.webp</picture>
+      <description>Y006 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y008" available="true">
+      <name>Шкаф Y008</name>
+      <url>https://timkush.ru/product/cabinet-y008/</url>
+      <price>36679</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y008-008-8874a59d.webp</picture>
+      <description>Y008 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y009A" available="true">
+      <name>Шкаф Y009A</name>
+      <url>https://timkush.ru/product/cabinet-y009a/</url>
+      <price>46723</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y009a-021-487597dc.webp</picture>
+      <description>Y009A — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y009B" available="true">
+      <name>Шкаф Y009B</name>
+      <url>https://timkush.ru/product/cabinet-y009b/</url>
+      <price>42349</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mq-y009b-018-c605db9a.webp</picture>
+      <description>Y009B — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y009C" available="true">
+      <name>Шкаф Y009C</name>
+      <url>https://timkush.ru/product/cabinet-y009c/</url>
+      <price>43024</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/mq-y009c-019-417a47bf.webp</picture>
+      <description>Y009C — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y00P1" available="true">
+      <name>Шкаф Y00P1</name>
+      <url>https://timkush.ru/product/cabinet-y00p1/</url>
+      <price>32508</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y00p1-000-529fea87.webp</picture>
+      <description>Y00P1 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y012" available="true">
+      <name>Шкаф Y012</name>
+      <url>https://timkush.ru/product/cabinet-y012/</url>
+      <price>37408</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y012-004-d5edcbaf.webp</picture>
+      <description>Y012 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y033" available="true">
+      <name>Шкаф Y033</name>
+      <url>https://timkush.ru/product/cabinet-y033/</url>
+      <price>120015</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y033-041-29011535.webp</picture>
+      <description>Y033 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y033-1" available="true">
+      <name>Шкаф Y033-1</name>
+      <url>https://timkush.ru/product/cabinet-y033-1/</url>
+      <price>196506</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y033-1-045-7c0e7487.webp</picture>
+      <description>Y033-1 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y033B" available="true">
+      <name>Шкаф Y033B</name>
+      <url>https://timkush.ru/product/cabinet-y033b/</url>
+      <price>126090</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y033b-042-adafc8b8.webp</picture>
+      <description>Y033B — под заказ из Китая. Напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="Y033C" available="true">
+      <name>Шкаф Y033C</name>
+      <url>https://timkush.ru/product/cabinet-y033c/</url>
+      <price>125145</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Другое оборудование</categoryId>
+      <picture>https://timkush.ru/img/y033c-043-e1a02f9f.webp</picture>
+      <description>Y033C — под заказ из Китая. Напряжение 110/220 в. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM1" available="true">
+      <name>Тележка YCM1</name>
+      <url>https://timkush.ru/product/cart-ycm1/</url>
+      <price>34938</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm1-009-b76114c6.webp</picture>
+      <description>YCM1 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM18" available="true">
+      <name>Тележка YCM18</name>
+      <url>https://timkush.ru/product/cart-ycm18/</url>
+      <price>37624</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm18-002-a78a1658.webp</picture>
+      <description>YCM18 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM2" available="true">
+      <name>Тележка YCM2</name>
+      <url>https://timkush.ru/product/cart-ycm2/</url>
+      <price>35478</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm2-010-cd7650f5.webp</picture>
+      <description>YCM2 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM3" available="true">
+      <name>Тележка YCM3</name>
+      <url>https://timkush.ru/product/cart-ycm3/</url>
+      <price>39379</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm3-011-4d82d966.webp</picture>
+      <description>YCM3 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM4" available="true">
+      <name>Тележка YCM4</name>
+      <url>https://timkush.ru/product/cart-ycm4/</url>
+      <price>45373</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm4-012-6ab93911.webp</picture>
+      <description>YCM4 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    <offer id="YCM5" available="true">
+      <name>Тележка YCM5</name>
+      <url>https://timkush.ru/product/cart-ycm5/</url>
+      <price>47128</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>Тележки и хранение</categoryId>
+      <picture>https://timkush.ru/img/ycm5-013-e2190a3c.webp</picture>
+      <description>YCM5 — под заказ из Китая. Точные сроки и стоимость подтверждает менеджер. Перед заказом менеджер подтвердит характеристики, комплектацию, стоимость и срок поставки. Гарантия - 12 месяцев.</description>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>

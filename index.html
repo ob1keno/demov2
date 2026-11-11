@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Timkush — мебель для салонов красоты, SPA и клиник</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="design.css">
+</head><body class="home-page">
+<div class="home-shell" id="top">
+<header class="home-head">
+<a class="home-logo" href="index.html">TIMKUSH</a>
+<nav class="home-menu" aria-label="Основное меню"><a href="katalog/index.html">Каталог</a><a href="kollekcii/index.html">Коллекции</a><a href="o-kompanii/index.html">О компании</a><a href="showroom/index.html">Шоурум</a><a href="contacts/index.html">Контакты</a></nav>
+<div class="home-tools">
+<button class="home-burger" id="navBurger" type="button" aria-label="Меню" aria-expanded="false"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h10"/></svg></button>
+<button class="home-search" id="searchOpen" type="button" aria-label="Поиск"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4.3-4.3"/></svg></button>
+<button class="home-cart" type="button" data-selection-open aria-label="Заявка"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l-1 12H7z"/><path d="M9 8V6.4a3 3 0 016 0V8"/></svg></button>
+</div>
+<div id="searchOverlay"><input id="mobileSearchInput" type="search" placeholder="Поиск по каталогу" data-search-overlay><p class="note" style="margin-top:10px">Начните вводить название, артикул или раздел.</p></div>
+</header>
+
+<section class="home-hero">
+<img class="home-hero-img" src="img/home/hero.webp" width="1672" height="941" alt="Профессиональная мебель Timkush в интерьере салона" loading="eager" fetchpriority="high" decoding="async">
+<div class="home-hero-shade" aria-hidden="true"></div>
+<div class="home-hero-body">
+<div class="home-hero-text">
+<p class="home-kicker">Профессиональная<br>мебель для индустрии красоты</p>
+<h1 class="home-h1">Оснастите<br>салон.<br><span>До последней<br>детали.</span></h1>
+<p class="home-hero-lead">Профессиональная мебель<br>для индустрии красоты</p>
+<a class="home-pill" href="katalog/index.html">Перейти в каталог <span aria-hidden="true">→</span></a>
+</div>
+<ol class="home-slides" aria-label="Кадры героя"><li class="is-on"><span>01</span></li><li class=""><span>02</span></li><li class=""><span>03</span></li></ol>
+</div>
+</section>
+
+<div class="home-section home-section--strip">
+<div class="home-glass home-benefits"><div class="home-benefit"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5.6c0 4.3-2.9 7.9-7 9.4-4.1-1.5-7-5.1-7-9.4V6z"/><path d="M9.2 11.8l2 2 3.6-3.8"/></svg><div><b>24 месяца<br>гарантии</b></div></div><div class="home-benefit"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9.5h16V20H4z"/><path d="M3 9.5L5 4h14l2 5.5"/><path d="M9.5 20v-5.5h5V20"/></svg><div><b>Доставка</b><span>по всей России</span></div></div><div class="home-benefit"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 7h10.5v9H3z"/><path d="M13.5 10.5H17l3.5 3V16h-7z"/><circle cx="7" cy="18" r="1.6"/><circle cx="17.4" cy="18" r="1.6"/></svg><div><b>Шоурум</b><span>в Санкт-Петербурге</span></div></div></div>
+</div>
+
+<section class="home-section home-catsec" id="home-categories">
+<h2 class="home-h2">Каталог<br>категорий</h2>
+<div class="home-cats-wrap">
+<div class="home-cats">
+<div class="home-arrows">
+<button class="home-arrow" type="button" aria-label="Предыдущие категории">←</button>
+<button class="home-arrow" type="button" aria-label="Следующие категории">→</button>
+</div>
+<a class="home-cat" href="katalog/kushetki/index.html"><span class="home-cat-ph"><img src="img/home/cat-1.webp" width="800" height="800" alt="Кушетки и кресла" loading="lazy" decoding="async"></span><span class="home-cat-cap">Кушетки<br>и кресла <i aria-hidden="true">→</i></span></a><a class="home-cat" href="katalog/stulya-mastera/index.html"><span class="home-cat-ph"><img src="img/home/cat-2.webp" width="800" height="800" alt="Стулья и мастера" loading="lazy" decoding="async"></span><span class="home-cat-cap">Стулья<br>и мастера <i aria-hidden="true">→</i></span></a><a class="home-cat" href="katalog/telezhki/index.html"><span class="home-cat-ph"><img src="img/home/cat-3.webp" width="800" height="800" alt="Тележки и тумбы" loading="lazy" decoding="async"></span><span class="home-cat-cap">Тележки<br>и тумбы <i aria-hidden="true">→</i></span></a><a class="home-cat" href="katalog/retsepshen/index.html"><span class="home-cat-ph"><img src="img/home/cat-4.webp" width="800" height="800" alt="Мебель для салона" loading="lazy" decoding="async"></span><span class="home-cat-cap">Мебель<br>для салона <i aria-hidden="true">→</i></span></a></div>
+</div>
+</section>
+
+<section class="home-section">
+<div class="home-space">
+<div class="home-space-photo"><img src="img/hero-2.webp" width="2000" height="1123" alt="Интерьер салона с мебелью Timkush" loading="lazy" decoding="async"></div>
+<div class="home-space-text">
+<h2 class="home-h2">Создайте<br>пространство,<br>в котором<br>хочется работать</h2>
+<a class="home-pill" href="kollekcii/index.html">О коллекциях <span aria-hidden="true">→</span></a>
+</div>
+</div>
+</section>
+
+<section class="home-section">
+<div class="home-why">
+<div class="home-why-text">
+<h2 class="home-h2">Почему<br>TIMKUSH?</h2>
+<div class="home-pillars"><div class="home-pillar"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 4h11l3 5.2L12 20 3.5 9.2z"/><path d="M3.5 9.2h17M9 4l-2.5 5.2L12 20l5.5-10.8L15 4"/></svg><b>Премиальное качество</b></div><div class="home-pillar"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 7h10.5v9H3z"/><path d="M13.5 10.5H17l3.5 3V16h-7z"/><circle cx="7" cy="18" r="1.6"/><circle cx="17.4" cy="18" r="1.6"/></svg><b>Доставка по всей России</b></div><div class="home-pillar"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20.6s6.8-5.5 6.8-10.6a6.8 6.8 0 10-13.6 0c0 5.1 6.8 10.6 6.8 10.6z"/><circle cx="12" cy="9.8" r="2.5"/></svg><b>Шоурум в Санкт-Петербурге</b></div><div class="home-pillar"><svg class="home-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.6" y="5.2" width="16.8" height="14.6" rx="2.4"/><path d="M3.6 10.2h16.8M8 3.6v3M16 3.6v3"/></svg><b>С 2017 года на рынке</b></div></div>
+</div>
+<div class="home-why-photo"><img src="img/home/why.webp" width="1200" height="675" alt="Мебель Timkush в интерьере салона" loading="lazy" decoding="async"></div>
+</div>
+</section>
+
+<section class="home-section">
+<div class="home-show">
+<div class="home-show-media">
+<figure class="home-show-photo home-show-photo--a"><img src="img/hero-1.webp" width="2000" height="857" alt="Шоурум Timkush в Санкт-Петербурге" loading="lazy" decoding="async"></figure>
+<figure class="home-show-photo home-show-photo--b"><img src="img/hero-3.webp" width="2000" height="1594" alt="Мебель Timkush в действующем салоне красоты" loading="lazy" decoding="async"></figure>
+</div>
+<div class="home-show-card">
+<h2>Посетите наш<br>шоурум в Санкт-Петербурге</h2>
+<p>Оцените качество и комфорт лично</p>
+<a class="home-pill" href="showroom/index.html">Записаться на визит <span aria-hidden="true">→</span></a>
+</div>
+<div class="home-show-facade"><img src="img/home/facade.webp" width="842" height="408" alt="Шоурум TIMKUSH в Санкт-Петербурге" loading="lazy" decoding="async"></div>
+</div>
+</section>
+
+<footer class="home-foot">
+<div class="home-foot-inner">
+<a class="home-foot-logo" href="index.html">TIMKUSH</a>
+<nav class="home-foot-menu" aria-label="Меню в подвале"><a href="katalog/index.html">Каталог</a><a href="kollekcii/index.html">Коллекции</a><a href="o-kompanii/index.html">О компании</a><a href="showroom/index.html">Шоурум</a><a href="contacts/index.html">Контакты</a></nav>
+<div class="home-socials">
+<a href="https://t.me/Asia_mr_kush05" aria-label="Telegram" rel="noopener"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 3L3.6 9.8l6 2.3L21 3z"/><path d="M21 3l-6.4 18-4.1-7.4L3.6 9.8"/></svg></a>
+<a href="https://vk.com/timkush" aria-label="VK" rel="noopener"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.4 7.4l3.7 9.2 3.7-9.2"/><path d="M14.2 7.4v9.2M21.6 7.4l-6.6 4.8 6.6 4.4"/></svg></a>
+<a href="https://www.youtube.com/@timkush" aria-label="YouTube" rel="noopener"><svg class="home-i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.8" y="6.2" width="18.4" height="11.6" rx="3.4"/><path d="M10.3 9.6l4.8 2.4-4.8 2.4z"/></svg></a>
+</div>
+</div>
+<div class="home-foot-bottom">
+<span>© 2026 Timkush. Все права защищены.</span>
+<div><a href="politika-konfidencialnosti/index.html">Политика конфиденциальности</a>
+<a href="politika-konfidencialnosti/index.html">Условия использования</a></div>
+</div>
+</footer>
+</div><div id="selectionOverlay"></div>
+<aside class="drawer translate-x-full" id="selectionDrawer" aria-label="Заявка">
+<h3>Заявка</h3><p class="note" data-selection-empty>Пока пусто: добавьте модели кнопкой «В заявку».</p>
+<ul data-selection-list></ul>
+<div class="btns"><a class="btn" id="selectionRequest" href="https://wa.me/79288040422">Отправить в WhatsApp</a>
+<a class="btn o" id="selectionRequestTg" href="https://t.me/Asia_mr_kush05">Отправить в Telegram</a>
+<button class="btn o" type="button" data-selection-close>Закрыть</button></div></aside>
+
+<nav class="tabs" aria-label="Разделы"><a class="on" href="index.html">Главная</a><a href="katalog/index.html">Каталог</a><a href="collections/index.html">Коллекции</a><a href="showroom/index.html">Шоурум</a><a href="contacts/index.html">Контакты</a></nav>
+<script>window.__METRIKA_ID = 113103678;</script>
+<script src="app.js"></script>
+</body></html>

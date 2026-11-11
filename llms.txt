@@ -1,0 +1,62 @@
+# Timkush
+
+> Профессиональная мебель для салонов красоты, SPA и клиник: кресла, кушетки, столы, стулья мастеров.
+
+Страниц: 360. Товаров: 293.
+
+## Разделы
+
+- Массажные столы: 83 моделей
+- Кресла: 64 моделей
+- Другое оборудование: 54 моделей
+- Стулья мастера: 30 моделей
+- Валики и массажные принадлежности: 25 моделей
+- Тележки и хранение: 14 моделей
+- Расходные материалы: 8 моделей
+- Кушетки: 6 моделей
+- Массажные кресла: 5 моделей
+- Нагреватели и подогреватели: 3 моделей
+- Ресепшен: 1 моделей
+
+## Товары
+
+- Кресло косметологическое 008SS — 116 856 ₽ — /product/cosmetic-008ss/
+- Кресло косметологическое 01B — 74 223 ₽ — /product/cosmetic-01b/
+- Кресло косметологическое 02B — 80 973 ₽ — /product/cosmetic-02b/
+- Набор массажных камней из мрамора HML12 (12шт.) — 2 975 ₽ — /product/10677/
+- Набор массажных камней из базальта в коробке из бамбука (60шт.) H60TC — 17 000 ₽ — /product/11087/
+- Нагреватель для камней HSH18 — 16 900 ₽ — /product/11107/
+- Нагреватель для камней HSH6 — 12 500 ₽ — /product/11108/
+- Набор массажных камней из базальта в коробке из бамбука (22шт.) H22TC — 7 500 ₽ — /product/18527/
+- Массажный складной стол MR KUSH Premium Pro 3 beige — 29 900 ₽ — /product/20220/
+- Массажный складной стол MR KUSH Premium Pro 2 beige — 28 500 ₽ — /product/20228/
+- Хлопковое покрытие для массажного стола MR KUSH (192*70cm) — 1 400 ₽ — /product/26681/
+- Массажный складной стол MR KUSH Premium 4 cream — 27 900 ₽ — /product/26780/
+- Массажный складной стол MR KUSH Premium Pro 2 XL (80см) cream — 33 000 ₽ — /product/26783/
+- Стул мастера MR KUSH Smart white — 4 500 ₽ — /product/31350/
+- Стул мастера MR KUSH Smart cream — 4 500 ₽ — /product/31351/
+- Стул мастера MR KUSH Smart black — 4 500 ₽ — /product/31352/
+- Кресло для массажа MR KUSH Comfort cream — 15 000 ₽ — /product/31380/
+- Кресло для массажа MR KUSH Comfort black — 15 000 ₽ — /product/31381/
+- Набор массажных камней из базальта в мешочке (20шт.) H20TC — 5 500 ₽ — /product/31525/
+- Нагреватель полотенец MJH23 — 13 500 ₽ — /product/31526/
+- Кресло для массажа MR KUSH Comfort AL cream — 19 900 ₽ — /product/32084/
+- Кресло для массажа MR KUSH Comfort AL black — 19 900 ₽ — /product/32085/
+- Массажный складной стол MR KUSH Premium AL 2 cream — 22 000 ₽ — /product/32087/
+- Массажный складной стол MR KUSH Premium AL 2 black — 22 000 ₽ — /product/32088/
+- Массажный складной стол MR KUSH Standart 3 black — 14 500 ₽ — /product/32101/
+- Массажный складной стол MR KUSH Premium Oval 3 cream — 24 500 ₽ — /product/32102/
+- Массажный складной стол MR KUSH Standart 2 cream — 13 500 ₽ — /product/32112/
+- Массажный складной стол MR KUSH Standart 2 coffee — 13 500 ₽ — /product/32113/
+- Массажный складной стол MR KUSH Standart 2 black — 13 500 ₽ — /product/32114/
+- Массажный складной стол MR KUSH Standart 2 beige — 13 500 ₽ — /product/32115/
+- Массажный складной стол MR KUSH Standart AL 2 cream — 14 500 ₽ — /product/32117/
+- Массажный складной стол MR KUSH Standart AL 2 black — 14 500 ₽ — /product/32118/
+- Массажный складной стол MR KUSH Standart AL 2 coffee — 14 500 ₽ — /product/32119/
+- Массажный складной стол MR KUSH Premium 2 cream — 21 500 ₽ — /product/32130/
+- Массажный складной стол MR KUSH Premium 2 black — 21 500 ₽ — /product/32131/
+- Массажный складной стол MR KUSH Premium 3 cream — 22 500 ₽ — /product/32138/
+- Стул мастера MR KUSH Smart + white — 6 900 ₽ — /product/32142/
+- Стул мастера MR KUSH Smart + cream — 6 900 ₽ — /product/32143/
+- Стул мастера MR KUSH Smart + black — 6 900 ₽ — /product/32144/
+- Массажный складной стол MR KUSH Premium Oval 2 cream — 22 500 ₽ — /product/34124/
